@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shiksha one-word domains f
 
 **Public extract:** 9,872 rows · **Live catalog:** 5,621,998 domains
 
-**Last updated:** 2026-04-09  
+**Last updated:** 2026-04-10  
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`  
 **Best for:** founders, investors, studios
 
@@ -24,24 +24,18 @@ Daily-updated public extract of available and resale .shiksha one-word domains f
 
 <p align="center">
   <a href="https://unique.domains/domains/tld/shiksha?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <a href="https://unique.domains/domains/tld/shiksha?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/shiksha?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./shiksha.csv">CSV</a> / <a href="./shiksha.json">JSON</a>
-</p>
-
-<p align="center">
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_methodology">Methodology</a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_api_docs">API docs</a>
+  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
-> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+➡️ **Investors:** [Create a Radar from this .SHIKSHA search](https://unique.domains/domains/tld/shiksha?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .SHIKSHA search](https://unique.domains/domains/tld/shiksha?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_start_project)  
+➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_api_docs)
 
-**Choose your next step**
-- **Investors:** [Create a Radar from this exact .SHIKSHA search](https://unique.domains/domains/tld/shiksha?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_create_radar)
-- **Founders:** [Start a Project from this exact .SHIKSHA search](https://unique.domains/domains/tld/shiksha?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_start_project)
-- **Researchers / builders:** [Download CSV](./shiksha.csv) or [Download JSON](./shiksha.json)
+---
 
 ## 📦 What this repository contains
 
@@ -57,18 +51,6 @@ This repository is the public extract for Unique Domains' .SHIKSHA one-word doma
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
 
-## Why leave GitHub?
-
-| GitHub extract          | Live product                                     |
-| ----------------------- | ------------------------------------------------ |
-| 9,872-row public sample | 5,621,998 live domains                           |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
-
-If this sample already feels useful, the live product is where the exact search becomes a workflow.
-
 ## 🧭 Quick start
 
 ```python
@@ -82,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| code.shiksha     | available | $19.99    | —             | 72             | 64     | 4      | name.com                                |
+| code.shiksha     | available | $19.99    | —             | 72             | 61     | 4      | name.com                                |
 | get.shiksha      | resell    | —         | —             | 88             | 57     | 3      | Spaceship, Inc.                         |
 | data.shiksha     | premium   | $85.80    | $85.80        | 70             | 60     | 4      | namecheap                               |
 | good.shiksha     | available | $19.99    | $74.99        | 82             | 55     | 4      | name.com                                |
@@ -90,16 +72,16 @@ print(df.head())
 | security.shiksha | premium   | $650      | $650          | 70             | 49     | 8      | namecheap                               |
 | live.shiksha     | available | $19.99    | $74.99        | 108            | 54     | 4      | name.com                                |
 | health.shiksha   | resell    | —         | —             | 92             | 45     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| law.shiksha      | premium   | $3,900    | $3,900        | 82             | 48     | 3      | namecheap                               |
+| genius.shiksha   | premium   | $750      | $750          | 98             | 47     | 6      | name.com                                |
 | zero.shiksha     | available | $19.99    | $74.99        | 112            | 53     | 4      | name.com                                |
 | smile.shiksha    | resell    | —         | —             | 110            | 44     | 5      | 1API GmbH                               |
-| genius.shiksha   | premium   | $750      | $750          | 98             | 47     | 6      | name.com                                |
+| trade.shiksha    | premium   | $2,600    | $2,600        | 116            | 46     | 5      | namecheap                               |
 | alpha.shiksha    | available | $19.99    | $74.99        | 90             | 53     | 5      | name.com                                |
 | deep.shiksha     | resell    | —         | —             | 72             | 40     | 4      | Spaceship, Inc.                         |
-| trade.shiksha    | premium   | $2,600    | $2,600        | 116            | 46     | 5      | namecheap                               |
+| car.shiksha      | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap                               |
 | art.shiksha      | available | $69.98    | —             | 90             | 52     | 3      | namecheap                               |
 | virtual.shiksha  | resell    | —         | —             | —              | 39     | 7      | Spaceship, Inc.                         |
-| car.shiksha      | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap                               |
+| law.shiksha      | premium   | $3,900    | $3,900        | 82             | 46     | 3      | namecheap                               |
 | true.shiksha     | available | $19.99    | $74.99        | 86             | 52     | 4      | name.com                                |
 | school.shiksha   | resell    | —         | —             | 102            | 38     | 6      | NameCheap, Inc.                         |
 
@@ -107,7 +89,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 ## 🚀 Next move
 
-You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 9,872-row public sample | 5,621,998 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
+
+If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
 [Create Radar](https://unique.domains/domains/tld/shiksha?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/shiksha?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_shiksha_oneword_domains&utm_content=related_pricing)
 
@@ -134,7 +126,7 @@ This repository follows the exact public search represented by the canonical pag
 - Counts, prices, and statuses can change over time.
 - Scores are decision-support signals, not guarantees of resale value.
 - Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- The live product contains deeper filters, monitoring, and decision workflows than this public extract.
+- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -151,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-04-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -166,4 +158,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `hello@unique.domains`
+Questions, corrections, or partnership requests: `gaetan@unique.domains`
