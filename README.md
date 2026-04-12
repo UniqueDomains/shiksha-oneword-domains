@@ -1,22 +1,22 @@
-# Available .SHIKSHA One-Word Domains (5,621,998)
+# Available .SHIKSHA One-Word Domains (9,872)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C872%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C998%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C872%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .shiksha one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .shiksha one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,872-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,998 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,872 rows · **Live catalog:** 5,621,998 domains
+**Public extract:** 9,872 rows · **Live catalog:** 9,872 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`  
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
 | code.shiksha     | available | $19.99    | —             | 72             | 61     | 4      | name.com                                |
 | get.shiksha      | resell    | —         | —             | 88             | 57     | 3      | Spaceship, Inc.                         |
-| data.shiksha     | premium   | $85.80    | $85.80        | 70             | 60     | 4      | namecheap                               |
+| data.shiksha     | premium   | $85.80    | $85.80        | 70             | 56     | 4      | namecheap                               |
 | good.shiksha     | available | $19.99    | $74.99        | 82             | 55     | 4      | name.com                                |
 | Your.shiksha     | resell    | —         | —             | 68             | 47     | 4      | Spaceship, Inc.                         |
 | security.shiksha | premium   | $650      | $650          | 70             | 49     | 8      | namecheap                               |
 | live.shiksha     | available | $19.99    | $74.99        | 108            | 54     | 4      | name.com                                |
-| health.shiksha   | resell    | —         | —             | 92             | 45     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
-| genius.shiksha   | premium   | $750      | $750          | 98             | 47     | 6      | name.com                                |
-| zero.shiksha     | available | $19.99    | $74.99        | 112            | 53     | 4      | name.com                                |
 | smile.shiksha    | resell    | —         | —             | 110            | 44     | 5      | 1API GmbH                               |
 | trade.shiksha    | premium   | $2,600    | $2,600        | 116            | 46     | 5      | namecheap                               |
-| alpha.shiksha    | available | $19.99    | $74.99        | 90             | 53     | 5      | name.com                                |
-| deep.shiksha     | resell    | —         | —             | 72             | 40     | 4      | Spaceship, Inc.                         |
+| alpha.shiksha    | available | $19.99    | $74.99        | 90             | 54     | 5      | name.com                                |
+| health.shiksha   | resell    | —         | —             | 92             | 43     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
 | car.shiksha      | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap                               |
+| zero.shiksha     | available | $19.99    | $74.99        | 112            | 53     | 4      | name.com                                |
+| deep.shiksha     | resell    | —         | —             | 72             | 40     | 4      | Spaceship, Inc.                         |
+| law.shiksha      | premium   | $3,900    | $3,900        | 82             | 46     | 3      | namecheap                               |
 | art.shiksha      | available | $69.98    | —             | 90             | 52     | 3      | namecheap                               |
 | virtual.shiksha  | resell    | —         | —             | —              | 39     | 7      | Spaceship, Inc.                         |
-| law.shiksha      | premium   | $3,900    | $3,900        | 82             | 46     | 3      | namecheap                               |
+| green.shiksha    | premium   | $3,900    | $3,900        | 108            | 45     | 5      | namecheap                               |
 | true.shiksha     | available | $19.99    | $74.99        | 86             | 52     | 4      | name.com                                |
 | school.shiksha   | resell    | —         | —             | 102            | 38     | 6      | NameCheap, Inc.                         |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,872-row public sample | 5,621,998 live domains                           |
+| 9,872-row public sample | 9,872 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
