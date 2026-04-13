@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .shiksha one-word domains from Uni
 
 **Public extract:** 9,872 rows · **Live catalog:** 9,872 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`  
 **Best for:** founders, investors, studios
 
@@ -73,15 +73,15 @@ print(df.head())
 | live.shiksha     | available | $19.99    | $74.99        | 108            | 54     | 4      | name.com                                |
 | smile.shiksha    | resell    | —         | —             | 110            | 44     | 5      | 1API GmbH                               |
 | trade.shiksha    | premium   | $2,600    | $2,600        | 116            | 46     | 5      | namecheap                               |
-| alpha.shiksha    | available | $19.99    | $74.99        | 90             | 54     | 5      | name.com                                |
+| zero.shiksha     | available | $19.99    | $74.99        | 112            | 53     | 4      | name.com                                |
 | health.shiksha   | resell    | —         | —             | 92             | 43     | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com |
 | car.shiksha      | premium   | $2,600    | $2,600        | 94             | 46     | 3      | namecheap                               |
-| zero.shiksha     | available | $19.99    | $74.99        | 112            | 53     | 4      | name.com                                |
+| alpha.shiksha    | available | $19.99    | $74.99        | 90             | 53     | 5      | name.com                                |
 | deep.shiksha     | resell    | —         | —             | 72             | 40     | 4      | Spaceship, Inc.                         |
 | law.shiksha      | premium   | $3,900    | $3,900        | 82             | 46     | 3      | namecheap                               |
 | art.shiksha      | available | $69.98    | —             | 90             | 52     | 3      | namecheap                               |
 | virtual.shiksha  | resell    | —         | —             | —              | 39     | 7      | Spaceship, Inc.                         |
-| green.shiksha    | premium   | $3,900    | $3,900        | 108            | 45     | 5      | namecheap                               |
+| genius.shiksha   | premium   | $750      | $750          | 98             | 45     | 6      | name.com                                |
 | true.shiksha     | available | $19.99    | $74.99        | 86             | 52     | 4      | name.com                                |
 | school.shiksha   | resell    | —         | —             | 102            | 38     | 6      | NameCheap, Inc.                         |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
