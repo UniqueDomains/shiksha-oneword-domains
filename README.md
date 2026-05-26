@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shiksha one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,856 domains · **Median ask:** $40.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | rewards.shiksha      | available | $19.99    | —             | 62             | 30     | 7      | name.com  |
 | officers.shiksha     | premium   | $82.50    | —             | 50             | 5      | 8      | name.com  |
 | spaces.shiksha       | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
-| popup.shiksha        | available | $19.99    | —             | 84             | 29     | 6      | name.com  |
+| heroes.shiksha       | available | $19.99    | —             | 68             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
