@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shiksha one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,437 domains · **Median ask:** $22.67 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| act.shiksha      | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| dating.shiksha   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| org.shiksha      | premium   | $2,500    | —             | medium         | medium | 3      | name.com         |
-| aim.shiksha      | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| data.shiksha     | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo         |
-| ala.shiksha      | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| blink.shiksha    | premium   | $2,500    | —             | high           | medium | 5      | name.com         |
-| ana.shiksha      | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| ideas.shiksha    | premium   | $750      | —             | medium         | low    | 5      | name.com         |
-| any.shiksha      | available | $19.99    | —             | high           | medium | 3      | name.com         |
-| mining.shiksha   | premium   | $650      | $650          | medium         | low    | 6      | namecheap        |
-| bag.shiksha      | available | $11.98    | $69.98        | medium         | low    | 3      | namecheap        |
-| athlete.shiksha  | premium   | $625      | —             | high           | low    | 7      | name.com         |
-| beg.shiksha      | available | $19.99    | —             | medium         | low    | 3      | name.com         |
-| cleaner.shiksha  | premium   | $750      | —             | high           | low    | 7      | name.com         |
-| big.shiksha      | available | $19.99    | $74.99        | high           | medium | 3      | name.com         |
-| engineer.shiksha | premium   | $640      | $640          | medium         | low    | 8      | namesilo         |
-| bye.shiksha      | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| security.shiksha | premium   | $640      | $640          | medium         | low    | 8      | namesilo         |
-| cap.shiksha      | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| christmas.shiksha | available | $19.99    | —             | high           | low    | 9      | name.com         |
+| act.shiksha       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| dating.shiksha    | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
+| org.shiksha       | premium   | $2,500    | —             | medium         | medium | 3      | name.com         |
+| aim.shiksha       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| data.shiksha      | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo         |
+| ala.shiksha       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| blink.shiksha     | premium   | $2,500    | —             | high           | medium | 5      | name.com         |
+| ana.shiksha       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| ideas.shiksha     | premium   | $750      | —             | medium         | low    | 5      | name.com         |
+| any.shiksha       | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| mining.shiksha    | premium   | $650      | $650          | medium         | low    | 6      | namecheap        |
+| bag.shiksha       | available | $11.98    | $69.98        | medium         | low    | 3      | namecheap        |
+| athlete.shiksha   | premium   | $625      | —             | high           | low    | 7      | name.com         |
+| beg.shiksha       | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| cleaner.shiksha   | premium   | $750      | —             | high           | low    | 7      | name.com         |
+| big.shiksha       | available | $19.99    | $74.99        | high           | medium | 3      | name.com         |
+| engineer.shiksha  | premium   | $640      | $640          | medium         | low    | 8      | namesilo         |
+| bye.shiksha       | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| security.shiksha  | premium   | $640      | $640          | medium         | low    | 8      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
