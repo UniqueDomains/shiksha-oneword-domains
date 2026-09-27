@@ -1,10 +1,10 @@
-# Available .SHIKSHA One-Word Domains (33,152)
+# Available .SHIKSHA One-Word Domains (23,544)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C152%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C544%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .shiksha one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,152 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,544 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,152 domains · **Median ask:** $21.83 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,544 domains · **Median ask:** $25.39 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| organic.shiksha | available | $11.98    | $69.98        | high           | low    | 7      | namecheap        |
-| style.shiksha   | available | $11.98    | $69.98        | high           | low    | 5      | namecheap        |
-| protein.shiksha | available | $11.98    | $69.98        | high           | low    | 7      | namecheap        |
-| script.shiksha  | available | $11.98    | $69.98        | high           | low    | 6      | namecheap        |
-| cloud.shiksha   | premium   | $5,200    | $5,200        | high           | medium | 5      | namecheap        |
-| act.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| smile.shiksha   | resell    | —         | —             | high           | medium | 5      | 1API GmbH        |
-| car.shiksha     | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap        |
-| aim.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| dating.shiksha  | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
-| mon.shiksha     | premium   | $14       | $14           | high           | low    | 3      | namecheap        |
-| ain.shiksha     | available | $11.98    | $69.98        | high           | low    | 3      | namecheap        |
-| org.shiksha     | premium   | $2,500    | —             | high           | medium | 3      | name.com         |
-| ala.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| farm.shiksha    | premium   | $750      | —             | high           | low    | 4      | name.com         |
-| ana.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| bae.shiksha     | available | $19.99    | —             | high           | low    | 3      | name.com         |
-| ideas.shiksha   | premium   | $750      | —             | high           | low    | 5      | name.com         |
-| bag.shiksha     | available | $11.98    | $69.98        | high           | low    | 3      | namecheap        |
-| mining.shiksha  | premium   | $650      | $650          | high           | low    | 6      | namecheap        |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| gas.shiksha         | available | $11.98    | $69.98        | high           | low    | 3      | namecheap |
+| farm.shiksha        | premium   | $750      | —             | high           | low    | 4      | name.com  |
+| gil.shiksha         | available | $14.99    | $51.99        | high           | low    | 3      | namesilo  |
+| doctor.shiksha      | premium   | $750      | —             | high           | low    | 6      | name.com  |
+| mug.shiksha         | available | $14.99    | $51.99        | high           | low    | 3      | namesilo  |
+| lawyers.shiksha     | premium   | $1,300    | $1,300        | medium         | low    | 7      | namecheap |
+| non.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| hardware.shiksha    | premium   | $780      | $780          | high           | low    | 8      | namecheap |
+| our.shiksha         | available | $19.99    | —             | high           | medium | 3      | name.com  |
+| investor.shiksha    | premium   | $750      | —             | high           | medium | 8      | name.com  |
+| sag.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| contractor.shiksha  | premium   | $650      | $650          | high           | low    | 10     | namecheap |
+| sat.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| statistics.shiksha  | premium   | $1,250    | —             | high           | low    | 10     | name.com  |
+| sum.shiksha         | available | $11.98    | $69.98        | high           | low    | 3      | namecheap |
+| veterinary.shiksha  | premium   | $640      | $640          | high           | low    | 10     | namesilo  |
+| tks.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| automobiles.shiksha | premium   | $768      | $768          | high           | low    | 11     | namesilo  |
+| tot.shiksha         | available | $14.99    | $51.99        | high           | low    | 3      | namesilo  |
+| unq.shiksha         | available | $14.99    | $51.99        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,152 live domains                        |
+| 1,000-row public sample | 23,544 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHIKSHA One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
