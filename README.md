@@ -1,10 +1,10 @@
-# Available .SHIKSHA One-Word Domains (23,544)
+# Available .SHIKSHA One-Word Domains (23,955)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C544%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C955%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .shiksha one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,544 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,955 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,544 domains · **Median ask:** $25.39 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 23,955 domains · **Median ask:** $25.21 · **High-demand under $2,500:** 4
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/shiksha`
@@ -78,12 +78,12 @@ print(df.head())
 | contractor.shiksha  | premium   | $650      | $650          | high           | low    | 10     | namecheap |
 | sat.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
 | statistics.shiksha  | premium   | $1,250    | —             | high           | low    | 10     | name.com  |
-| sum.shiksha         | available | $11.98    | $69.98        | high           | low    | 3      | namecheap |
+| sgt.shiksha         | available | $14.99    | $51.99        | high           | low    | 3      | namesilo  |
 | veterinary.shiksha  | premium   | $640      | $640          | high           | low    | 10     | namesilo  |
-| tks.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| sum.shiksha         | available | $11.98    | $69.98        | high           | low    | 3      | namecheap |
 | automobiles.shiksha | premium   | $768      | $768          | high           | low    | 11     | namesilo  |
+| tks.shiksha         | available | $19.99    | —             | high           | low    | 3      | name.com  |
 | tot.shiksha         | available | $14.99    | $51.99        | high           | low    | 3      | namesilo  |
-| unq.shiksha         | available | $14.99    | $51.99        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,544 live domains                        |
+| 1,000-row public sample | 23,955 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
