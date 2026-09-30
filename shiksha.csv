@@ -2,13 +2,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 9153ff2f-f02c-41a8-889a-45287262834f,exceeding.shiksha,available,11.98,69.98,high,low,9,namecheap,,,17/08/2026 15:59
 5346646c-e8cb-453e-aa23-af99c8423c3f,godfrey.shiksha,available,19.99,74.99,high,low,7,name.com,,,25/09/2026 18:26
 1392ed50-f6ed-4de4-be55-1e988cc2c2bb,simpler.shiksha,available,19.99,,high,low,7,name.com,,,
-19343561-2712-4cb8-9ca3-324c3e43852d,prolate.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,15/08/2026 18:52
+19343561-2712-4cb8-9ca3-324c3e43852d,prolate.shiksha,available,11.98,69.98,high,low,7,namecheap,,,15/08/2026 18:52
 9e363706-478b-46f4-a26c-cc960697f3ae,unseasoned.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,12/09/2026 18:46
 b4fb1b65-568f-4ed0-9ca5-f884e2d92f4e,ripening.shiksha,available,11.98,69.98,high,low,8,namecheap,,,
 6c8ec38f-465e-4303-8c63-cc32a332fb3b,peanut.shiksha,available,11.98,69.98,high,low,6,namecheap,,,08/09/2026 11:13
-c6b61cf0-eac4-4861-b50e-4ce91afa9621,pavlovian.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,08/09/2026 10:55
+c6b61cf0-eac4-4861-b50e-4ce91afa9621,pavlovian.shiksha,available,11.98,69.98,high,low,9,namecheap,,,08/09/2026 10:55
 cec8c555-6685-44de-80d2-53c5a1ac260e,alcides.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,18/09/2026 04:05
 d726d5dc-a656-4b51-a16f-f2178ea67e0e,well.shiksha,available,14.99,51.99,high,low,4,namesilo,,,24/09/2026 22:39
+e1c090d4-02de-42dc-9c40-ab94c0503dcc,malden.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,29/09/2026 15:07
 0528412c-0e3e-4c38-b935-c0d28e1f8fc8,tenderly.shiksha,available,14.99,51.99,high,low,8,namesilo,,,16/09/2026 08:17
 608901a7-3818-48f5-9e67-f28674abd2b4,collegial.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,12/08/2026 17:06
 2498d7be-2a30-4876-80cb-48c68e609242,baulk.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,14/08/2026 04:57
@@ -16,15 +17,16 @@ d726d5dc-a656-4b51-a16f-f2178ea67e0e,well.shiksha,available,14.99,51.99,high,low
 cf699c50-01e0-4dc7-88a0-13df1d2115ac,surprisingly.shiksha,available,19.99,,high,low,12,name.com,,,
 62589020-b88d-4455-b9b0-5569d8b0578b,fledged.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,18/08/2026 07:25
 c4707ffa-8bdd-4acb-994d-4fcb10dec58c,ballroom.shiksha,available,10.55,41.6,high,low,8,spaceship,,,29/09/2026 00:49
-a83b1340-5598-478b-b83f-5d8788b2d3d1,squishy.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,10/09/2026 16:26
+a83b1340-5598-478b-b83f-5d8788b2d3d1,squishy.shiksha,available,11.98,69.98,high,low,7,namecheap,,,10/09/2026 16:26
 b50cdcdc-9914-46cb-87df-28d379cfd94f,engaging.shiksha,available,13.5,69.98,high,low,8,unstoppable,,,28/09/2026 07:52
 7d10a871-2376-44f2-a883-90805e58b9ba,allograft.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,18/09/2026 11:54
 d0d16c70-9425-44ef-aa5f-93ca98dfe18d,charabanc.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,21/09/2026 05:58
+ef8c48e5-9b94-4a07-9fdc-0f942f36d9f7,thc.shiksha,available,10.55,41.6,high,medium,3,spaceship,,,29/09/2026 08:13
 d71b77ee-7a06-4d2b-8112-13ee9180a4ce,organizers.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,28/09/2026 10:11
+e17d6683-2c6e-4b96-84fd-514a1d0b2dda,waterfront.shiksha,available,10.55,41.6,high,low,10,spaceship,,,30/09/2026 03:05
 00a69b6a-c4e4-450f-a3f4-e34b050a8c8c,tedious.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,23/09/2026 00:32
 b172ab4d-098f-40dc-aa2d-6e54bf969ec6,abjuration.shiksha,available,19.99,74.99,medium,low,10,name.com,,,16/09/2026 15:59
 254831eb-c706-4d9f-8755-2cad22f9a32e,touches.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,28/09/2026 04:39
-2875aaeb-346c-41d1-9158-07e8d27e9786,peacock.shiksha,available,,,high,high,7,,,,
 23e4ab21-c72c-41ee-8811-a78289fdf1b4,peak.shiksha,available,11.98,69.98,high,medium,4,namecheap,,,24/09/2026 20:27
 b7165fe9-7373-4968-81eb-e80f60b91f7e,keeps.shiksha,available,11.98,69.98,high,low,5,namecheap,,,25/09/2026 19:06
 598e6250-9c26-49b9-a411-a322a1333ba8,equality.shiksha,available,10.92,41.81,high,low,8,dynadot,,,28/09/2026 19:07
@@ -34,15 +36,15 @@ b7165fe9-7373-4968-81eb-e80f60b91f7e,keeps.shiksha,available,11.98,69.98,high,lo
 5d4cd334-eb25-4294-8862-e64ea9de109e,rump.shiksha,available,11.98,69.98,medium,low,4,namecheap,,,09/08/2026 11:28
 c05ba3af-8b05-4082-ad13-cecb0c2693a0,striped.shiksha,available,11.98,69.98,high,low,7,namecheap,,,10/09/2026 22:44
 cf7b6cfe-9a84-41fa-acbd-d958dd6773ed,dystopian.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 22:10
-4bb22e75-4d53-416f-a0f4-950b3134fe14,riyadh.shiksha,available,19.99,,high,low,6,name.com,,,
-d883394a-6553-4fb6-a4d0-b600e6852a37,ahura.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,17/09/2026 20:40
+4bb22e75-4d53-416f-a0f4-950b3134fe14,riyadh.shiksha,available,11.98,69.98,high,low,6,namecheap,,,29/09/2026 06:50
+d883394a-6553-4fb6-a4d0-b600e6852a37,ahura.shiksha,available,11.98,69.98,high,low,5,namecheap,,,17/09/2026 20:40
 ab31f5ce-dd5a-4508-9cc9-418ce757b49d,appreciative.shiksha,available,19.99,,high,low,12,name.com,,,
 7b92c075-2fa2-4b93-98b9-31ba6db884fc,acanthurus.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,16/09/2026 20:58
 3f707b38-fbb5-46a9-a3e5-e92643642e66,unmelted.shiksha,available,11.98,69.98,low,low,8,namecheap,,,12/09/2026 15:35
 44ebb1a3-1e11-4969-b9da-887ea710bc1f,catarrhine.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,11/08/2026 21:11
 d6d1eaa6-76d7-4333-82da-d99aa8f076aa,ascending.shiksha,available,11.98,69.98,high,low,9,namecheap,,,07/08/2026 00:51
 a48aa3ab-fa0f-4cf8-8f53-3844a6977a06,alpenstock.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,18/09/2026 13:32
-4980d86d-20c7-4b4c-954e-1d84da304197,condition.shiksha,available,19.99,,high,low,9,name.com,,,
+4980d86d-20c7-4b4c-954e-1d84da304197,condition.shiksha,available,13.5,,high,low,9,unstoppable,,,29/09/2026 10:38
 9dc74468-ef78-4253-9fa5-d5573f27e33d,despoiled.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 04:23
 05091055-7b4e-454b-9316-57552951373f,quadruple.shiksha,available,11.98,69.98,high,low,9,namecheap,,,18/08/2026 13:24
 c0a7a15e-c4a8-48de-a138-6ff66e791781,quitting.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,17/09/2026 01:45
@@ -50,6 +52,7 @@ f5040860-2d71-4e96-9f26-75ff3e7fa00e,awakening.shiksha,available,14.99,51.99,hig
 2cf99f09-73b0-490f-9959-3f2da8c98a40,kuomintang.shiksha,available,10.55,41.6,medium,low,10,spaceship,,,28/09/2026 14:23
 3bc7e438-b866-4615-8b1f-bcfccd91a32d,devolve.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,13/08/2026 23:59
 0565c67c-8242-425b-89e8-9fa971787a14,repulsive.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,
+dc865d3c-8ee8-4baf-bccc-312cdac68225,restart.shiksha,available,14.99,51.99,high,low,7,namesilo,,,30/09/2026 02:42
 f8734bf8-5450-4162-ab29-0a4e3b6ed8b2,reflection.shiksha,available,11.98,69.98,high,low,10,namecheap,,,25/09/2026 22:24
 e1fe89ef-20c2-4c80-b8c3-101b3aafabd9,scuba.shiksha,available,14.99,51.99,high,low,5,namesilo,,,19/09/2026 22:55
 da9c763c-fbb0-4206-8795-a6824a892904,forgiving.shiksha,available,14.99,51.99,high,low,9,namesilo,,,21/09/2026 14:52
@@ -58,6 +61,7 @@ bf13b3b4-a554-4c98-8356-5919cb9cdd30,ointment.shiksha,available,11.98,69.98,high
 1ba7bf17-eb05-4c19-8b5c-d9ae29a4aa86,initiate.shiksha,available,11.98,69.98,high,low,8,namecheap,,,17/08/2026 09:35
 1ecb264b-14c6-4c27-94ea-fa095e40b7b2,stunt.shiksha,available,14.99,51.99,high,low,5,namesilo,,,28/09/2026 10:58
 b14a754e-b193-4b4f-a263-95d83cfcab2e,sculptured.shiksha,available,11.98,69.98,high,low,10,namecheap,,,20/08/2026 18:52
+dbd32f77-7e3b-4413-88bd-418cf64d72c7,villiers.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,29/09/2026 09:13
 bc6f1bb1-36e3-447a-9799-ba0ac682738f,threesome.shiksha,available,11.98,69.98,high,low,9,namecheap,,,
 b7429641-dfe9-4a0a-90ac-5880d676892a,expectable.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,17/08/2026 18:02
 b0065535-772a-46b9-bef9-5a36a97ff4be,tellingly.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,16/09/2026 08:14
@@ -70,7 +74,7 @@ a0428cbf-3408-45ee-a3e6-fbaa0373a46c,sampson.shiksha,available,14.99,51.99,mediu
 be3935f3-aa5c-42f6-a815-4cffbe9ac8bc,ironlike.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,22/08/2026 10:10
 c40dbe9c-0902-44f6-863c-2736ae996a72,airpost.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,17/09/2026 23:19
 15ab870c-cd46-4232-96b9-0bdee0d1d822,bissau.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,23/09/2026 22:06
-e0e619e1-de67-4fe9-8c24-ad3ed7011685,rightness.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,19/09/2026 22:23
+e0e619e1-de67-4fe9-8c24-ad3ed7011685,rightness.shiksha,available,14.99,51.99,high,low,9,namesilo,,,19/09/2026 22:23
 08c2a062-0471-45c2-9024-79810f5eb300,bandolier.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,22/09/2026 01:27
 bf32e25c-51dc-4f14-826f-c29da6248d4e,autosexing.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,21/09/2026 07:42
 f97c6893-26a5-4662-8607-8fd0db021fa5,febrile.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,18/08/2026 00:27
@@ -79,15 +83,16 @@ cd0c21c3-5065-4792-954c-af0f2e43f40b,regulation.shiksha,available,11.98,69.98,hi
 b237ba55-1abe-4db4-8a89-8a532d88881d,thing.shiksha,available,13.5,,high,low,5,unstoppable,,,28/09/2026 19:13
 5c3d9256-7e10-46e3-8e1f-6db9c6ed7b17,asynergy.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,20/09/2026 18:52
 2fb5b1f1-0c93-4a41-b09f-092d2ef7026c,iranian.shiksha,available,11.98,69.98,high,low,7,namecheap,,,22/08/2026 09:39
+466eb159-07ac-4859-96b9-d41a069a5dce,bitten.shiksha,available,13.5,,low,low,6,unstoppable,,,29/09/2026 10:18
 7fad530e-f7a7-4bfc-8c29-4f84ab1882de,sweetie.shiksha,available,11.98,69.98,high,low,7,namecheap,,,10/09/2026 19:34
-3f89e5ac-d106-46ec-825b-e3d42af9ce96,isolated.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,22/09/2026 07:07
+3f89e5ac-d106-46ec-825b-e3d42af9ce96,isolated.shiksha,available,11.98,69.98,high,low,8,namecheap,,,22/09/2026 07:07
 4f61b3af-504f-4cfb-8d0d-e552ce63a790,weirdly.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,16/09/2026 11:23
 f2344558-d832-404e-81ba-b0b38d1e3d26,computer.shiksha,available,10.55,41.6,high,medium,8,spaceship,,,28/09/2026 08:32
 ef7b2483-4143-4720-b5df-6632e4d0d45b,eaten.shiksha,available,19.99,,high,low,5,name.com,,,
 4eb194b7-b30e-4e00-ba3d-4abe229cee64,corinthian.shiksha,available,11.98,69.98,high,low,10,namecheap,,,13/08/2026 01:16
 da9dd785-e705-46b0-b0a9-254f4dba1429,scotchtape.shiksha,available,11.98,69.98,high,low,11,namecheap,,,16/09/2026 11:38
 95dfc67f-1523-415a-9915-5a33b0bb7774,auger.shiksha,available,14.99,51.99,medium,low,5,namesilo,,,21/09/2026 03:19
-068d5612-777d-44ef-8867-dc380b0a94aa,except.shiksha,available,19.99,,high,low,6,name.com,,,
+068d5612-777d-44ef-8867-dc380b0a94aa,except.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 13:57
 6a15767e-650d-4bff-9429-679ae26f3069,deng.shiksha,available,14.99,51.99,high,low,4,namesilo,,,27/09/2026 20:32
 394271a0-2971-4f24-a229-04bb45da1417,drawn.shiksha,available,14.99,51.99,high,low,5,namesilo,,,23/09/2026 12:57
 1eb1294d-7718-4f65-9b1c-826155df1fb0,rubbed.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,17/09/2026 07:54
@@ -99,19 +104,21 @@ b706e3b3-c38b-418f-8f31-b370ac72537f,sulphur.shiksha,available,14.99,51.99,mediu
 6f16a88f-0d4d-4a98-9d12-ce8b0ef0a50b,extremely.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,27/09/2026 02:51
 7215fc5c-186c-4859-bea6-38efd3716990,blameless.shiksha,available,11.98,69.98,high,low,9,namecheap,,,10/08/2026 12:53
 33547d01-f3c3-4b48-94e7-501dc2d03a35,persuasive.shiksha,available,11.98,69.98,high,low,10,namecheap,,,08/09/2026 18:05
-327a6a06-c246-4e0d-b39e-652d55c4a37e,gramme.shiksha,available,19.99,,high,low,6,name.com,,,
-a43fe7eb-e50b-4f48-a074-31e730b96cef,doctor.shiksha,premium,750,,high,low,6,name.com,,,
-314713c6-6bad-44d5-84a8-c6747e3ad18d,rail.shiksha,available,19.99,,high,low,4,name.com,,,
-84aaff46-b188-4932-ac69-b53663cba941,mandy.shiksha,available,10.55,41.6,medium,low,5,spaceship,,,28/09/2026 17:34
+ab0e2b1d-d598-48f0-a694-7b5af8776410,negotiated.shiksha,available,13.5,,medium,low,10,unstoppable,,,29/09/2026 23:38
+327a6a06-c246-4e0d-b39e-652d55c4a37e,gramme.shiksha,available,11.98,69.98,high,low,6,namecheap,,,29/09/2026 20:16
+a43fe7eb-e50b-4f48-a074-31e730b96cef,doctor.shiksha,premium,660,660,high,low,6,dynadot,,,29/09/2026 05:29
+76c7dcd5-b927-4e2f-aa20-7e23fa668809,infants.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,29/09/2026 23:25
+314713c6-6bad-44d5-84a8-c6747e3ad18d,rail.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 20:10
+84aaff46-b188-4932-ac69-b53663cba941,mandy.shiksha,available,10.55,41.6,high,low,5,spaceship,,,28/09/2026 17:34
 b4105043-f205-4226-849f-1ff591c33ba1,marie.shiksha,available,14.99,51.99,high,low,5,namesilo,,,25/09/2026 17:44
 690e1749-ed99-4352-87e4-f75673bcdfa2,clever.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,23/09/2026 12:20
 bb7e170a-9638-400c-a484-c96e72ac6baa,balm.shiksha,available,14.99,51.99,high,low,4,namesilo,,,21/09/2026 23:35
 544b87a3-fd96-4a71-a56f-135ce370684f,maybe.shiksha,available,14.99,51.99,high,low,5,namesilo,,,28/09/2026 16:19
-fafbf1db-937b-4e20-8923-80f6bbdfc3d8,stretched.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,10/09/2026 22:34
+fafbf1db-937b-4e20-8923-80f6bbdfc3d8,stretched.shiksha,available,11.98,69.98,high,low,9,namecheap,,,10/09/2026 22:34
 280e0946-7e79-4b49-b4db-d08411d8309b,anglosaxon.shiksha,available,14.99,51.99,medium,low,11,namesilo,,,29/09/2026 02:54
 5523e81b-cfa3-4238-bb44-53c76abe5e3f,senefelder.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,18/09/2026 13:11
 a8d369a0-9567-4e3f-b743-fd7c61d8c914,amour.shiksha,available,14.99,51.99,high,low,5,namesilo,,,17/09/2026 14:07
-26cfeec6-d39f-409b-b20b-3ac56bd3c10a,fantasm.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,08/09/2026 18:39
+26cfeec6-d39f-409b-b20b-3ac56bd3c10a,fantasm.shiksha,available,11.98,69.98,high,low,7,namecheap,,,08/09/2026 18:39
 b2f20463-8b74-4c0e-901c-873ef416cd2c,stations.shiksha,available,19.99,,high,low,8,name.com,,,
 8deb6886-9440-4724-90b2-50404bf7bd1d,carbon.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,20/09/2026 23:21
 02c25f3b-2bf5-4ce4-a037-18d14d6b2e38,proudly.shiksha,available,11.98,69.98,high,low,7,namecheap,,,15/09/2026 21:48
@@ -124,34 +131,38 @@ c8fc744d-cbd8-47e1-aacd-87ec5c2ca6af,bags.shiksha,available,19.99,,high,low,4,na
 e423d454-4829-416a-ac9d-a1f73bf00a39,adhesion.shiksha,available,14.99,51.99,high,low,8,namesilo,,,17/09/2026 07:59
 aaaf89b5-d4ce-4845-b077-0aaadcc43433,skinless.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,10/09/2026 09:42
 1d98e226-3105-4463-aae6-3173df8b069b,ridge.shiksha,available,13.5,,high,low,5,unstoppable,,,28/09/2026 03:01
+b6f3029c-5274-4d44-9321-498c83aada3d,rendered.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,29/09/2026 05:08
 4e1c73dc-997f-4488-ba9a-cf002c276a4b,acanthus.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,16/09/2026 21:02
 5e6e9e27-16f9-40c2-a0b4-301c1111636c,horrific.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,14/08/2026 08:59
 2e3fd326-105c-482e-9aea-9b4782c298f3,wrists.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,20/09/2026 10:52
 1ac3bf34-9e96-487c-9a26-995a1c9e5a9d,corpses.shiksha,available,10.55,41.6,low,low,7,spaceship,,,28/09/2026 23:15
-3a90c0e5-078e-436c-8b12-ac2e924ca3be,non.shiksha,available,14.99,51.99,medium,low,3,namesilo,,,28/09/2026 16:25
+3a90c0e5-078e-436c-8b12-ac2e924ca3be,non.shiksha,available,14.99,51.99,high,low,3,namesilo,,,28/09/2026 16:25
 9c2efb47-9d63-4305-b540-01e5d0ac903f,genevieve.shiksha,available,13.5,,medium,low,9,unstoppable,,,28/09/2026 16:45
 2945fde2-2f92-4021-9342-2e54b70b948e,freehand.shiksha,available,11.98,69.98,high,low,8,namecheap,,,18/08/2026 14:55
 b193f736-7bcc-4343-84d1-cbee271e346d,doi.shiksha,available,19.99,79.99,high,low,3,godaddy,,,28/09/2026 01:47
+57c1ca26-3e17-4679-949b-2f50e41e06f9,implications.shiksha,available,10.55,41.6,medium,low,12,spaceship,,,29/09/2026 17:18
 db72754d-523d-4218-b250-9ac05f090b89,duel.shiksha,available,14.99,51.99,high,low,4,namesilo,,,17/09/2026 14:06
-6f523af9-b7ef-4e1f-8815-09a51cf7f26c,grande.shiksha,available,10.55,41.6,medium,low,6,spaceship,,,29/09/2026 02:58
+6f523af9-b7ef-4e1f-8815-09a51cf7f26c,grande.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 02:58
+92ddf2a6-a96d-48bc-ae27-59930568c0c9,unification.shiksha,available,14.99,51.99,high,low,11,namesilo,,,30/09/2026 00:02
 2b7654f9-e69d-464b-84b5-f65a7959f3d7,uup.shiksha,available,14.99,51.99,medium,low,3,namesilo,,,20/09/2026 22:18
 0dd6b1f4-58bb-4869-a80a-f4450b11a77f,mournful.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,14/08/2026 15:16
 8b4ef0c8-5322-4534-bb41-3ba56df68217,downwards.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 17:16
 94e502e7-aa76-4c3e-8e3a-c5add116fa64,baronet.shiksha,available,14.99,51.99,high,low,7,namesilo,,,22/09/2026 07:28
-818e8584-f93c-4d39-9631-57166a48a671,abenaki.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,
+818e8584-f93c-4d39-9631-57166a48a671,abenaki.shiksha,available,11.98,69.98,high,low,7,namecheap,,,
 3a837760-145c-420a-8aec-00de6f8ce838,devices.shiksha,available,14.99,51.99,high,low,7,namesilo,,,28/09/2026 03:14
 eb5dbdb5-0de8-4a28-b4fe-aabdc0e60f3f,spotify.shiksha,available,,,high,high,7,,,,
 1ff3e0b7-a838-48e6-9266-538d0a4d5901,gps.shiksha,available,10.55,41.6,high,medium,3,spaceship,,,29/09/2026 01:05
 2c0e5b57-79a5-4956-adfe-09aeaf917959,wristband.shiksha,available,14.99,51.99,high,low,9,namesilo,,,24/09/2026 07:49
+b8c695b4-a829-4044-9e07-6549ba7d2c39,oils.shiksha,available,10.55,41.6,medium,low,4,spaceship,,,30/09/2026 00:28
 7d2cecf5-c74e-4ed7-8a76-b8369fec748d,calculators.shiksha,available,19.99,74.99,medium,low,11,name.com,,,18/09/2026 18:59
-991fce45-cc37-4ed0-93fa-bd5ed8d30b28,fungicide.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,
+991fce45-cc37-4ed0-93fa-bd5ed8d30b28,fungicide.shiksha,available,11.98,69.98,high,low,9,namecheap,,,
 167074d9-1a28-4b79-9ddd-5068f5755fa2,agrology.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,17/09/2026 19:36
 b6613f31-6729-4ebd-a6d7-8d50c16b9032,militant.shiksha,available,11.98,69.98,high,low,8,namecheap,,,
 e253fe40-9abd-4391-b651-378efad0cc49,choirs.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,17/09/2026 06:51
 6a39f719-e42e-49cc-aa0e-927ea42bb891,convoluted.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,12/08/2026 23:59
 c667a2e0-568f-43da-a71c-bdaa04cd7f2f,methodical.shiksha,available,11.98,69.98,high,low,10,namecheap,,,24/08/2026 21:56
 132f8614-30c2-4555-8e12-77ef571f2586,tacit.shiksha,available,11.98,69.98,high,low,5,namecheap,,,11/09/2026 06:56
-0a73215d-f7ab-4ba2-9e5f-c348215b8aa2,employment.shiksha,available,19.99,,high,low,10,name.com,,,
+0a73215d-f7ab-4ba2-9e5f-c348215b8aa2,employment.shiksha,available,10.55,41.6,high,low,10,spaceship,,,29/09/2026 18:07
 9eeeea00-24c9-4ed3-9227-20970e252cc1,tully.shiksha,available,10.55,41.6,medium,low,5,spaceship,,,28/09/2026 19:49
 0b14c6f1-7f5d-492b-9158-bfc155778ae2,godwin.shiksha,available,13.5,,high,low,6,unstoppable,,,28/09/2026 11:40
 476098e4-099a-4afa-be55-f44096ab0002,acl.shiksha,available,13.5,,high,low,3,unstoppable,,,29/09/2026 03:18
@@ -161,6 +172,7 @@ b99a7c89-c2c2-4695-af1b-bf3f2eea771d,arrival.shiksha,available,14.99,51.99,high,
 1fc5ac2c-964e-42e8-9aec-17a683ef354c,adenoma.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,17/09/2026 07:30
 3e5d43c1-c38e-48da-a37d-b8fb5d878851,scores.shiksha,available,11.98,69.98,high,low,6,namecheap,,,14/09/2026 23:23
 c36ec1e7-6b31-48bc-918a-268992171de4,cows.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 03:44
+d98e4a2a-c968-4689-b7d3-f8796fb06109,sabha.shiksha,available,10.81,41.71,high,low,5,porkbun,,,29/09/2026 21:35
 a1d0ab79-06fc-4da0-a128-4fcc66ce56f7,tusked.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,11/09/2026 21:29
 3e650aba-5471-4dd7-b1c1-5f9695278b29,shakespeare.shiksha,available,19.99,,high,low,11,name.com,,,
 553e037e-8043-4e78-86f5-1f35fe02467a,xoxoxo.shiksha,available,19.99,,high,low,6,name.com,,,
@@ -180,7 +192,7 @@ ed38535d-cf4c-4db1-a099-6ea2cad7e2f7,still.shiksha,available,14.99,51.99,high,lo
 1355d1a2-72c7-432f-a0f8-02134f22168f,lowlife.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,11/08/2026 09:22
 d6d41e4d-8650-411b-b559-80be83b65b34,algin.shiksha,available,14.99,51.99,medium,low,5,namesilo,,,18/09/2026 07:04
 a5ebe070-18bd-443c-925f-a606f99fe617,teresa.shiksha,available,11.98,69.98,high,low,6,namecheap,,,17/09/2026 18:40
-3077958c-e350-4f0a-b999-0632dfe53a50,spring.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,23/09/2026 01:43
+3077958c-e350-4f0a-b999-0632dfe53a50,spring.shiksha,available,19.99,79.99,high,medium,6,godaddy,,,30/09/2026 01:44
 0c115bc3-9e51-40c2-a6cd-930c108e58e8,hire.shiksha,available,14.99,51.99,high,low,4,namesilo,,,24/09/2026 13:49
 f99c270d-664c-480f-aa29-59422164b9d0,gayal.shiksha,available,14.99,51.99,medium,low,5,namesilo,,,23/09/2026 13:03
 d6ca041e-e3ca-424e-8d71-9dc9258346b3,nanjing.shiksha,available,10.92,41.81,medium,low,7,dynadot,,,28/09/2026 10:29
@@ -189,19 +201,22 @@ d46d3884-acb3-4ef1-8060-22b4ad4fe3d9,baldly.shiksha,available,11.98,69.98,medium
 727aca91-8bf9-404b-b92f-425316da304d,hypertonic.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,21/08/2026 16:56
 e4115169-0020-4990-8592-c102e4efe555,peaty.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,08/09/2026 11:28
 30c3b1ae-64dd-4c23-8fe2-bf2a2f4ecec2,poitiers.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,22/09/2026 15:48
+496f292d-6dfe-44cc-aaea-9750a750923e,fragments.shiksha,available,14.99,51.99,low,low,9,namesilo,,,29/09/2026 05:00
 8ee1be06-7abf-426b-8f3b-dd9f847db254,repugnant.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,
-b8a997c1-fe7a-4324-a9ec-9891b71860ca,equipment.shiksha,available,10.55,41.6,high,low,9,spaceship,,,28/09/2026 02:33
+dd50c122-87ca-498c-84bb-93dbb55d6b1b,sorensen.shiksha,available,10.81,41.71,high,low,8,porkbun,,,30/09/2026 02:56
+b8a997c1-fe7a-4324-a9ec-9891b71860ca,equipment.shiksha,available,13.5,41.6,high,low,9,unstoppable,,,29/09/2026 19:32
 5eee30c9-27f8-4f7a-846a-763f60cec937,axone.shiksha,available,11.98,69.98,high,low,5,namecheap,,,21/09/2026 10:31
 e7caba7d-d1eb-4fc2-b0a8-1d8be74b98c8,albinism.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,18/09/2026 02:54
-ab778674-e6b3-4c31-83c4-6a3ccef92cdb,postmortem.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,09/09/2026 00:31
+ab778674-e6b3-4c31-83c4-6a3ccef92cdb,postmortem.shiksha,available,11.98,69.98,high,low,10,namecheap,,,09/09/2026 00:31
 dc3b9c56-300a-492c-ae50-744f94a79f14,errant.shiksha,available,11.98,69.98,high,low,6,namecheap,,,17/08/2026 12:44
 fe7ba6b7-18f8-4078-bec1-edeb9f27f6ec,kechua.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,22/08/2026 15:23
 5e63c5c0-e7c3-4248-bfc9-3c412dcbd25f,wrap.shiksha,available,14.99,51.99,high,low,4,namesilo,,,26/09/2026 00:32
 1c7c85ac-6992-4e5c-844b-d9c3f3b59e1a,canyon.shiksha,available,14.99,51.99,high,low,6,namesilo,,,28/09/2026 05:22
 ecf71437-24ba-43bd-84b5-5cf32da4f164,longest.shiksha,available,13.5,,medium,low,7,unstoppable,,,28/09/2026 16:14
+c0e7b6fe-3024-44c5-9cd3-1d3f99f449f8,rivalry.shiksha,available,10.55,41.6,high,low,7,spaceship,,,29/09/2026 20:12
 960ba997-25c3-418c-8355-17f69e748af2,prodromal.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,09/09/2026 02:44
 5bca5233-8e4d-46d2-bbdb-7db676bb90bf,fifth.shiksha,available,11.98,69.98,high,low,5,namecheap,,,
-da98a449-1dc5-4dff-b929-a3efe244c5f5,jewelry.shiksha,available,19.99,,high,low,7,name.com,,,
+da98a449-1dc5-4dff-b929-a3efe244c5f5,jewelry.shiksha,available,14.99,51.99,high,low,7,namesilo,,,30/09/2026 00:51
 598fafb3-ce71-40bf-882c-d582d49558f5,moonlit.shiksha,available,11.98,69.98,high,low,7,namecheap,,,25/08/2026 05:56
 9567ec25-5dbe-4e6b-b443-52106017c688,irresponsible.shiksha,available,13.5,,medium,low,13,unstoppable,,,28/09/2026 21:26
 e428749f-17d1-4870-a6bb-b74914d309f0,ductile.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,14/08/2026 20:50
@@ -209,7 +224,9 @@ e428749f-17d1-4870-a6bb-b74914d309f0,ductile.shiksha,available,11.98,69.98,mediu
 c57be3bf-2e2c-4698-abf8-cf82342efa0a,artaxerxes.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,20/09/2026 10:06
 eb45df2a-0700-4259-87cd-b8128d523865,lipoma.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,17/09/2026 08:18
 87793664-7f2f-4e0a-9fd1-8dea8dae56ce,doula.shiksha,available,11.98,69.98,high,low,5,namecheap,,,23/09/2026 21:09
-c46a06af-76aa-4f56-9053-01e0fa85ddd7,tend.shiksha,available,19.99,,high,low,4,name.com,,,
+c46a06af-76aa-4f56-9053-01e0fa85ddd7,tend.shiksha,available,11.98,69.98,high,low,4,namecheap,,,29/09/2026 23:54
+2d801b54-36ff-4ec7-a8b8-f1373dce91ff,servers.shiksha,available,13.5,,high,low,7,unstoppable,,,29/09/2026 17:57
+e3e72519-f49f-410c-9467-6919c93435f4,pistols.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,29/09/2026 11:19
 9ba380eb-a993-4a84-9a89-f4fefcba737e,criticize.shiksha,available,19.99,,high,low,9,name.com,,,
 f7d8daf8-43e1-49b0-b3a7-500048835577,brakes.shiksha,available,14.99,51.99,high,low,6,namesilo,,,24/09/2026 08:09
 4ffa20f5-3dbf-44f1-a5ee-99a8fda0917b,above.shiksha,available,14.99,51.99,high,low,5,namesilo,,,21/09/2026 14:29
@@ -217,6 +234,7 @@ f7d8daf8-43e1-49b0-b3a7-500048835577,brakes.shiksha,available,14.99,51.99,high,l
 ce373623-b6a0-4c31-aa87-a399a37f6d92,persistence.shiksha,available,19.99,,high,low,11,name.com,,,
 690ed472-5c8c-4492-8415-0ebbeeb5ca33,pagan.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,18/08/2026 21:57
 39a1e9bd-11dd-4340-8ecd-2cf392c7e339,flames.shiksha,available,10.92,41.81,medium,low,6,dynadot,,,27/09/2026 23:38
+392d0a61-ac96-4bb2-a07f-29ed2dfad058,shores.shiksha,available,13.5,,medium,low,6,unstoppable,,,29/09/2026 11:01
 b4299b68-91a8-4eb3-b05c-3181251c69aa,punctuate.shiksha,available,14.99,51.99,high,low,9,namesilo,,,16/09/2026 21:54
 d535e65b-46b7-43f9-88b3-5582519fba50,biracial.shiksha,available,11.98,69.98,high,low,8,namecheap,,,10/08/2026 05:42
 4b5f0bbd-5be5-43d5-852a-aa708da18594,tewkesbury.shiksha,available,19.99,74.99,medium,low,10,name.com,,,22/09/2026 16:07
@@ -224,13 +242,17 @@ d535e65b-46b7-43f9-88b3-5582519fba50,biracial.shiksha,available,11.98,69.98,high
 473d7631-3920-4f64-a215-6d86b4c08165,room.shiksha,available,14.99,51.99,high,low,4,namesilo,,,28/09/2026 06:11
 52d3fa4c-3e88-4835-ab41-2904f5dc0a30,tot.shiksha,available,14.99,51.99,high,low,3,namesilo,,,22/09/2026 00:39
 b4696df4-ac61-4701-a51c-2bf03cf6fd4d,cockamamy.shiksha,available,11.98,69.98,low,low,9,namecheap,,,12/08/2026 14:49
+a94f266b-7b09-4481-94ac-4d8540a61399,pauli.shiksha,available,10.55,41.6,high,low,5,spaceship,,,29/09/2026 07:50
 4d12569c-2a8c-4fa7-aa48-d3a26239795b,priests.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,18/09/2026 03:38
 4c0a1aca-3445-481b-a8a8-43269ac58f07,oxford.shiksha,available,19.99,,high,low,6,name.com,,,
 cd26fd59-e8f1-4f62-8f2d-c2a3e1e62486,tuna.shiksha,available,19.99,74.99,high,low,4,name.com,,,19/09/2026 07:27
 855471e2-2361-4d44-a9a8-5c04d81f909d,uneven.shiksha,available,11.98,69.98,high,low,6,namecheap,,,04/09/2026 00:48
+261a8607-0fa6-4728-af2f-6c24affb224c,avoided.shiksha,available,10.55,41.6,low,low,7,spaceship,,,29/09/2026 05:05
+c9b5b6e1-f6d2-4098-a52d-ce0101f5c734,preschool.shiksha,premium,500.5,,high,low,9,unstoppable,,,30/09/2026 02:37
 10bd6b9d-5113-45dc-97eb-073ad4796a70,strictly.shiksha,available,11.98,69.98,high,low,8,namecheap,,,15/09/2026 22:03
 36999118-7060-4a4b-a421-fe6830735496,hectic.shiksha,available,11.98,69.98,high,low,6,namecheap,,,18/08/2026 03:09
 c964f10f-d4c8-4579-93c4-7c697d0b557f,content.shiksha,available,14.99,51.99,high,medium,7,namesilo,,,28/09/2026 03:01
+c3748271-0b50-4eb5-a703-fdd835677d90,canadians.shiksha,available,10.55,41.6,medium,low,9,spaceship,,,29/09/2026 17:32
 c29f4cb2-2627-4c52-9220-e7de3f4e4c4e,snobbish.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,12/08/2026 11:21
 3f2ba6f4-af80-404e-8282-27fa675ebb90,fluent.shiksha,available,11.98,69.98,high,low,6,namecheap,,,16/08/2026 06:17
 f9e340b1-a652-44a6-bbff-81d7228dcf7e,yacht.shiksha,available,10.81,41.71,high,low,5,porkbun,,,28/09/2026 02:59
@@ -239,12 +261,14 @@ e674cbac-2ded-4e2e-bec7-6c3a31e97a8e,benson.shiksha,available,14.99,51.99,high,l
 45001ab8-a2ce-40ab-b8b2-5856db4a296b,apathetic.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,05/08/2026 22:04
 51c33384-d8c0-41de-adec-d215be35ec9c,across.shiksha,available,13.5,,high,low,6,unstoppable,,,28/09/2026 11:43
 f69f94b5-45eb-410b-a980-d899d094c07d,fledgeling.shiksha,available,11.98,69.98,high,low,10,namecheap,,,18/08/2026 07:32
-b4133613-2714-4cba-b48e-e2440184385b,pirate.shiksha,available,19.99,,high,low,6,name.com,,,
+b4133613-2714-4cba-b48e-e2440184385b,pirate.shiksha,available,14.99,51.99,high,low,6,namesilo,,,29/09/2026 04:52
 383c7b82-0739-4b99-8519-ac45eabb0fbf,tobin.shiksha,available,14.99,51.99,high,low,5,namesilo,,,28/09/2026 06:04
 10a9d23f-e1c4-4403-873d-0d797cc9548e,requirements.shiksha,available,14.99,51.99,medium,low,12,namesilo,,,17/09/2026 10:26
 fbc72af2-2059-4a14-bd08-2ae025e1fd34,nuclei.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,
 45232488-9615-465e-9d41-5680c5413710,cloves.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,17/09/2026 13:15
 2a87d4f7-aef1-42ff-9b5d-cdc0d981c803,dabbler.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,14/08/2026 07:42
+211a457f-2052-4dcf-a624-88d0e9833449,pes.shiksha,available,10.55,41.6,high,low,3,spaceship,,,30/09/2026 01:41
+509701fa-9b79-4cba-b5f6-ea3413c83454,counsellor.shiksha,available,10.55,41.6,high,low,10,spaceship,,,29/09/2026 18:29
 1cd452c2-4270-4902-acaa-2fd1cdfd2645,aslant.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,07/08/2026 03:56
 fcaf315d-b2c1-4d1e-9535-93d40941ab68,assiduity.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,20/09/2026 16:21
 70be4e7e-e115-44af-b8c6-acc99908ece2,longroot.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,20/09/2026 03:40
@@ -253,6 +277,7 @@ bbe4c5d1-cecd-437b-8b7b-1bebb23c261d,spangly.shiksha,available,11.98,69.98,mediu
 6fdc9c78-a679-4f68-90b7-05a817280a4d,adagio.shiksha,available,11.98,69.98,high,low,6,namecheap,,,
 b69af12c-a319-4aa6-bb62-a8fae0f29fc5,trailer.shiksha,available,11.98,69.98,high,low,7,namecheap,,,22/08/2026 18:43
 9eff4f79-6291-4111-9de4-907357bcea9e,bigness.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,23/09/2026 15:14
+0e80169a-fdaa-4f7e-8c14-a06f1e937ea1,modesto.shiksha,available,10.92,41.81,medium,low,7,dynadot,,,29/09/2026 15:37
 543476d4-f5ff-41ab-bcae-9708a6060649,ransom.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,27/09/2026 05:07
 24ff5366-52be-4965-9044-68003e2f55ad,consume.shiksha,available,14.99,51.99,high,low,7,namesilo,,,29/09/2026 02:37
 eebe3645-e197-4cfa-9d53-ca4de8f16f65,bounteous.shiksha,available,11.98,69.98,high,low,9,namecheap,,,09/08/2026 20:50
@@ -272,22 +297,24 @@ be4224b7-9f5b-48f0-8b69-a756176da569,amaze.shiksha,available,11.98,69.98,high,lo
 f0c7c25b-ac62-45b0-9029-22994eede06a,closeout.shiksha,available,19.99,,high,low,9,name.com,,,
 d67754fc-6330-412f-a555-e893a432e721,angry.shiksha,available,11.98,69.98,high,low,5,namecheap,,,
 21e539e5-5d21-4ca2-8fe0-18693dbecca0,investor.shiksha,premium,768,768,high,medium,8,namesilo,,,28/09/2026 05:43
-ad502427-bba6-4ede-b3d8-e4ed28f7a969,fascinate.shiksha,available,19.99,,high,low,9,name.com,,,
+ad502427-bba6-4ede-b3d8-e4ed28f7a969,fascinate.shiksha,available,14.99,51.99,high,low,9,namesilo,,,29/09/2026 08:16
 8bff1a3f-06b4-47c0-a9dc-88d999237b96,steroids.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,19/09/2026 19:38
 76dd1653-dca8-490e-9d4b-d1a48924addb,fake.shiksha,available,11.98,69.98,high,low,4,namecheap,,,08/08/2026 23:02
 d8ca2f8e-c6b4-4eba-a8aa-a7d6434ff665,robertson.shiksha,available,14.99,51.99,high,low,9,namesilo,,,25/09/2026 09:45
 66883b68-8137-4941-ae5e-723e64298f16,litter.shiksha,available,14.99,51.99,high,low,6,namesilo,,,22/09/2026 23:14
 e2428ae2-a0e2-4b47-ae0c-0305dbb74e61,luggage.shiksha,available,10.92,41.81,high,low,7,dynadot,,,29/09/2026 00:30
+0e419298-da1e-4f3c-951e-0269f6a657e8,redeem.shiksha,available,13.5,,high,low,6,unstoppable,,,30/09/2026 02:39
 3e8729b8-a25c-431e-b833-cd9ab17f5de8,typically.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,28/09/2026 17:10
 1cdec950-bd91-4cb6-b4f0-ef47fac6755f,rhodesian.shiksha,available,11.98,69.98,high,low,9,namecheap,,,09/09/2026 16:41
 59948b71-5e7c-4477-bb01-661cf0e05255,reversible.shiksha,available,11.98,69.98,high,low,10,namecheap,,,27/09/2026 14:17
-aef7435d-b1e5-47ac-9dd5-9c44d142a4df,purchase.shiksha,available,19.99,,high,low,8,name.com,,,
+aef7435d-b1e5-47ac-9dd5-9c44d142a4df,purchase.shiksha,available,10.55,41.6,high,low,8,spaceship,,,29/09/2026 05:36
 0a67a6c7-b4e1-4236-9751-21a1169075ba,ginger.shiksha,available,11.98,69.98,high,low,6,namecheap,,,18/08/2026 23:51
 315ade57-e636-4d9b-b4fe-195e1427f8e8,blanquillo.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,24/09/2026 04:04
 bbe7380c-88a2-40cf-ad72-3da5edb734af,blasphemy.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,24/09/2026 04:15
-c7a72690-1df7-45de-b6ec-1c8e1f3dd7fe,arrested.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,17/09/2026 20:22
+c7a72690-1df7-45de-b6ec-1c8e1f3dd7fe,arrested.shiksha,available,11.98,69.98,high,low,8,namecheap,,,17/09/2026 20:22
+a3a15020-e264-4879-8364-041649df5045,accelerated.shiksha,available,10.92,41.81,high,low,11,dynadot,,,29/09/2026 14:30
 7496e98d-cfef-497b-a9a3-62a5d19a6061,vein.shiksha,available,19.99,,high,low,4,name.com,,,
-76bab531-1b28-472b-a89d-8b4c0a97a4a3,circuit.shiksha,available,19.99,,high,low,7,name.com,,,
+76bab531-1b28-472b-a89d-8b4c0a97a4a3,circuit.shiksha,available,13.5,,high,low,7,unstoppable,,,29/09/2026 09:16
 279e4d3e-b1cb-4d88-9a1d-fc1261df0f03,propulsive.shiksha,available,11.98,69.98,high,low,10,namecheap,,,09/09/2026 03:32
 7ba1f02a-2532-4483-888a-268364f2170a,bonn.shiksha,available,14.99,51.99,high,low,4,namesilo,,,25/09/2026 01:56
 43965c72-9efd-44d4-8c96-f031c78f353d,tours.shiksha,available,19.99,,high,low,5,name.com,,,
@@ -295,15 +322,16 @@ da8ea195-e22e-427e-888b-65e0220fb94f,fairy.shiksha,available,14.99,51.99,high,lo
 49b9c794-3838-4f6a-a857-f62a19f9d9d2,bureau.shiksha,available,14.99,51.99,high,low,6,namesilo,,,17/09/2026 17:00
 a55ed1b0-d960-4a0f-a90b-8a2d3b4b083e,dicky.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,14/08/2026 06:27
 5ec36a4a-e1f1-4738-a3a4-9014dc46d7c2,span.shiksha,available,14.99,51.99,high,low,4,namesilo,,,29/09/2026 00:16
-6a9e40ce-2338-4a23-bb9c-3b184cbafcd6,klaus.shiksha,available,14.99,51.99,medium,low,5,namesilo,,,27/09/2026 01:38
+6a9e40ce-2338-4a23-bb9c-3b184cbafcd6,klaus.shiksha,available,14.99,51.99,high,low,5,namesilo,,,27/09/2026 01:38
 5df43bfe-cf19-4115-b07b-46eed3c43070,squeaking.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,10/09/2026 00:03
 f19ed3c5-735d-48ef-8c08-6aef5f3de3c4,enjoyable.shiksha,available,11.98,69.98,high,low,9,namecheap,,,17/08/2026 09:17
 6fcbbf5a-dbc0-4c10-be31-7a526b73b314,hardware.shiksha,premium,780,780,high,low,8,namecheap,,,24/09/2026 16:57
 1df24aa7-82cf-40f9-9022-07d03be68f37,apache.shiksha,available,14.99,51.99,high,low,6,namesilo,,,19/09/2026 16:09
 b1ac1d46-224c-432d-9d5a-ca3cce0742ee,grasp.shiksha,available,14.99,51.99,high,low,5,namesilo,,,19/09/2026 22:13
 dcf0a227-1282-41ec-b147-e058009c9d17,heart.shiksha,available,14.99,51.99,high,low,5,namesilo,,,23/09/2026 13:28
-3f2d4d00-cd6c-49f5-81ad-e99f2707a379,cyrus.shiksha,available,10.55,41.6,medium,low,5,spaceship,,,28/09/2026 13:50
-28d509bc-db53-4823-b218-617d1e026ff1,repeatable.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,09/09/2026 09:08
+3f2d4d00-cd6c-49f5-81ad-e99f2707a379,cyrus.shiksha,available,10.55,41.6,high,low,5,spaceship,,,28/09/2026 13:50
+28d509bc-db53-4823-b218-617d1e026ff1,repeatable.shiksha,available,11.98,69.98,high,low,10,namecheap,,,09/09/2026 09:08
+f0831efe-abf1-44fc-902f-283a705ebe0f,domesday.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,29/09/2026 09:11
 1f7738a0-b3cb-49c8-902d-c775ce02a464,westchester.shiksha,available,11.98,69.98,medium,low,11,namecheap,,,27/09/2026 01:58
 39bd7b1a-ee41-4d04-aac2-6baa3daf82c5,winifred.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,28/09/2026 21:52
 74ba3ca0-8937-435a-858f-1b1528da5b5b,hindrance.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 04:50
@@ -314,9 +342,10 @@ cb1b6d0b-763a-4164-92e9-f1fe398def20,winy.shiksha,available,11.98,69.98,medium,l
 a7a216ff-d483-4e95-b290-0ef845fc7099,azonic.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,08/08/2026 02:32
 75d250af-374b-4c1f-90f9-68afe9c4d53e,slicker.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,23/09/2026 02:58
 3d666aa8-55ff-483b-bb72-373bfe1b3dfa,dupe.shiksha,available,11.98,69.98,high,low,4,namecheap,,,12/08/2026 15:10
-37f1faa2-73b6-407c-8247-eca65bbc3678,disney.shiksha,available,,,high,high,6,,,,
+f2c48da7-3856-4fe8-a92e-08d53dfefeb9,dba.shiksha,available,14.99,51.99,high,low,3,namesilo,,,30/09/2026 01:16
 1f873022-1a80-4c46-a004-d5afd1d3aff9,gymnastic.shiksha,available,11.98,69.98,high,low,9,namecheap,,,
 32bbfd8e-1744-4231-8f53-a78a803669bf,shun.shiksha,available,14.99,51.99,high,low,4,namesilo,,,24/09/2026 02:00
+455bc4bf-9725-4343-b181-18fb64140e6b,sanitation.shiksha,available,10.55,41.6,high,low,10,spaceship,,,29/09/2026 20:17
 29dfa0a4-1580-4580-8e96-3688d723c079,impaired.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,21/08/2026 21:40
 ca767163-ea4d-4aae-af0f-006a07dcc4ab,downstair.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 17:57
 38eb17ae-e1f7-46eb-a265-ad11c98e731d,editing.shiksha,available,14.99,51.99,high,low,7,namesilo,,,28/09/2026 13:57
@@ -326,38 +355,45 @@ a06b2ef9-60e3-4e57-8461-6c1741afcf89,fathers.shiksha,available,14.99,51.99,high,
 82e29fb6-fc59-4902-827a-0db2f054ea71,soonest.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,14/08/2026 22:25
 8b2c4fb0-d681-412a-b9aa-5ddc861882cb,accordance.shiksha,available,14.99,51.99,high,low,10,namesilo,,,16/09/2026 23:00
 f01dc408-4f70-4356-ad4d-b9c71edf3672,niggers.shiksha,available,14.99,51.99,low,low,7,namesilo,,,16/09/2026 14:20
+bf05d793-c5e9-4e61-9f9e-8419d37ba629,ballard.shiksha,available,10.92,41.81,high,low,7,dynadot,,,29/09/2026 22:22
 3b9b6c47-88af-4354-b5b9-01355241ca52,slav.shiksha,available,11.98,69.98,high,low,4,namecheap,,,10/09/2026 10:28
 f54497e8-0b95-4550-a24e-722cd88e2d65,midwife.shiksha,available,14.99,51.99,high,low,7,namesilo,,,16/09/2026 23:05
 3a652a5c-0bfd-4cf8-af86-387496e55aac,pinging.shiksha,available,19.99,,medium,low,7,name.com,,,
 111d2498-1658-431a-aabc-2adeeacd3e5b,slapstick.shiksha,available,11.98,69.98,high,low,9,namecheap,,,10/09/2026 10:03
-3dae120e-fc82-4a90-bc90-3c8707da96f8,leakproof.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,22/08/2026 21:59
+3dae120e-fc82-4a90-bc90-3c8707da96f8,leakproof.shiksha,available,11.98,69.98,high,low,9,namecheap,,,22/08/2026 21:59
+74a34f76-1ee8-4218-a7e2-ff6c1589c13d,sahara.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 20:15
+aec2c5ba-e9b1-415b-82ad-0e746f0df773,islamabad.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,29/09/2026 06:15
+f92a0900-8d48-435c-8bac-f97b6a567711,grading.shiksha,premium,,,high,low,7,,,,30/09/2026 01:47
 b9925f30-8127-49b4-aef6-849de1d65b9c,edition.shiksha,available,10.81,41.71,high,low,7,porkbun,,,28/09/2026 01:49
 008a9447-b81e-48cb-8f16-e78d37a703cd,drogue.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,17/09/2026 21:47
 59f87803-cde9-4b7f-bffc-a0bafc9cb8bb,macho.shiksha,available,11.98,69.98,high,low,5,namecheap,,,11/08/2026 11:31
-6eab33d6-06f2-43ab-aa73-77e315e2a79d,bagpiper.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,21/09/2026 18:28
+6eab33d6-06f2-43ab-aa73-77e315e2a79d,bagpiper.shiksha,available,11.98,69.98,high,low,8,namecheap,,,21/09/2026 18:28
 1c30319b-38dd-44b0-b763-fb461d0df821,surgery.shiksha,available,14.99,51.99,high,low,7,namesilo,,,25/09/2026 23:54
 8e8adfa2-7b08-4b97-a474-d19f152aa8b0,fragmental.shiksha,available,11.98,69.98,high,low,10,namecheap,,,18/08/2026 14:01
 75bf9393-6568-437b-a0d1-b3d019775c91,with.shiksha,available,19.99,,high,high,4,name.com,,,
 a67c6c8e-4467-418d-aac5-59b464e0b5f6,bessel.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,23/09/2026 10:26
 f798e495-f6cd-434f-820e-cde99e5bb685,frank.shiksha,available,11.98,69.98,high,medium,5,namecheap,,,08/09/2026 05:07
+afab4ef4-1e4b-44e5-a923-7e5df596d0cb,bournemouth.shiksha,available,10.55,41.6,medium,low,11,spaceship,,,29/09/2026 21:53
 13908ab5-0d48-44c4-a0e1-094d39c67973,lodge.shiksha,available,13.5,,high,low,5,unstoppable,,,28/09/2026 23:14
 bc360dfb-a874-4fba-ba32-07982f5b281c,drs.shiksha,available,10.55,41.6,medium,low,3,spaceship,,,28/09/2026 22:08
 617eaed6-6ccc-4941-a3ab-c372996a4cd7,effort.shiksha,available,14.99,51.99,high,low,6,namesilo,,,28/09/2026 05:04
 8f3fd4c4-75f2-41f4-8bc1-e29e2242a7d5,conformity.shiksha,available,14.99,51.99,high,low,10,namesilo,,,16/09/2026 15:32
-ae7badef-d624-4645-9693-c12c059df985,snicker.shiksha,available,19.99,,medium,low,7,name.com,,,
+ae7badef-d624-4645-9693-c12c059df985,snicker.shiksha,available,19.99,,high,low,7,name.com,,,
 beac76ed-04f5-4179-9f1a-9d268b834143,patter.shiksha,available,11.98,69.98,high,low,6,namecheap,,,15/09/2026 20:21
 fee1e9cc-40d7-427b-ba21-636fcc1995b3,beverage.shiksha,available,10.55,41.6,high,low,8,spaceship,,,28/09/2026 05:24
 e99893c5-b1b3-4921-8e6d-e269c05b7ee4,reformer.shiksha,available,14.99,51.99,high,low,8,namesilo,,,19/09/2026 15:23
-68baed6c-2152-4933-8a1d-fee691a61a08,lend.shiksha,available,19.99,,high,low,4,name.com,,,
+68baed6c-2152-4933-8a1d-fee691a61a08,lend.shiksha,available,13.5,,high,low,4,unstoppable,,,30/09/2026 03:09
 7f0059ba-536e-4eef-baec-d5d209d37b62,sonsie.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,10/08/2026 20:34
 b40a0136-8c03-4400-919b-61a1b306e5a7,bareback.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,08/08/2026 18:38
-fd20eae0-a152-4c18-887c-7bfeb1e47cdc,slovakian.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,10/09/2026 11:16
+fd20eae0-a152-4c18-887c-7bfeb1e47cdc,slovakian.shiksha,available,11.98,69.98,high,low,9,namecheap,,,10/09/2026 11:16
+8a21dd5a-256a-417e-8bd2-a59e2fd8ba8d,malagasy.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,29/09/2026 22:51
+7103cea2-e9b8-4523-850a-5b66576eacbf,persecution.shiksha,available,10.55,41.6,medium,low,11,spaceship,,,29/09/2026 16:24
 411b130d-a8fe-4dd1-9da9-eb4e147c184a,apex.shiksha,available,14.99,51.99,high,medium,4,namesilo,,,19/09/2026 16:45
-8f91b2aa-eab0-4ea6-b56a-cca7233626d5,gandhi.shiksha,available,19.99,,high,low,6,name.com,,,
+8f91b2aa-eab0-4ea6-b56a-cca7233626d5,gandhi.shiksha,available,11.98,69.98,high,low,6,namecheap,,,29/09/2026 20:38
 7f50a188-4540-4a33-8f66-015e8abcf4c7,wieldy.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,13/09/2026 11:52
 cae98987-a543-4460-be19-0fd860d60dd7,ailanthus.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,17/09/2026 21:07
 4fc5b788-c318-4045-bc37-085f2af4837c,kvetch.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,08/09/2026 20:36
-5e1c450e-a0b5-4b17-8369-bf8e6c560d88,modena.shiksha,available,10.55,41.6,medium,low,6,spaceship,,,29/09/2026 03:43
+5e1c450e-a0b5-4b17-8369-bf8e6c560d88,modena.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 03:43
 7222a558-3f6b-4e07-9d8f-c149b8308ec8,queenlike.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,09/09/2026 07:54
 d7605540-7bb7-4974-8144-cd75a157c0a5,neat.shiksha,available,11.98,69.98,high,low,4,namecheap,,,22/09/2026 16:59
 83e75fe6-0d56-4cec-9476-814e42ed3717,blab.shiksha,available,11.98,69.98,high,low,4,namecheap,,,23/09/2026 23:33
@@ -365,6 +401,7 @@ d7605540-7bb7-4974-8144-cd75a157c0a5,neat.shiksha,available,11.98,69.98,high,low
 324782d6-f1f0-4b4f-b1d4-b0aed6bc96c5,brainy.shiksha,available,11.98,69.98,high,low,6,namecheap,,,11/08/2026 01:53
 fceced17-8828-40bf-bf6b-64b9e62ae62e,cycloidal.shiksha,available,19.99,74.99,medium,low,9,name.com,,,13/08/2026 13:40
 b42e9851-ccfc-4089-89d4-3472500491e7,bight.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,23/09/2026 15:12
+b44a3d67-a512-449c-a530-3f8c9b99ca78,responses.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,29/09/2026 17:29
 29694315-fb1d-4244-87e3-d04b8b0e3a99,loops.shiksha,available,14.99,51.99,high,low,5,namesilo,,,17/09/2026 12:15
 77dccaf3-34ce-4ad0-9982-c42147fa3095,unowned.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,04/09/2026 22:16
 0fb5a2e3-0cae-4722-b7d4-52f375bdcea3,bended.shiksha,available,11.98,69.98,low,low,6,namecheap,,,09/08/2026 14:15
@@ -373,15 +410,16 @@ b42e9851-ccfc-4089-89d4-3472500491e7,bight.shiksha,available,11.98,69.98,medium,
 3a48436b-3913-487d-8f63-cd13c61faf21,ecstatic.shiksha,available,11.98,69.98,high,low,8,namecheap,,,14/08/2026 23:44
 a61672ff-e5aa-4cfc-9ee9-c51e7d1db89d,sexy.shiksha,available,14.99,51.99,high,low,4,namesilo,,,22/09/2026 07:13
 2dd3022e-b9cb-4820-b742-1550ff5b97a2,sloshed.shiksha,available,11.98,69.98,low,low,7,namecheap,,,09/08/2026 15:48
-097c3197-43cd-4e7e-bca8-4da1ed560756,moment.shiksha,available,19.99,,high,low,6,name.com,,,
+097c3197-43cd-4e7e-bca8-4da1ed560756,moment.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 22:41
 37023400-af68-4096-add2-990d81b7065c,exile.shiksha,available,13.5,,high,low,5,unstoppable,,,28/09/2026 18:57
 093287fb-b618-4da4-b24e-6498b74aca80,menstrual.shiksha,available,11.98,69.98,high,low,9,namecheap,,,11/08/2026 20:59
 412a7cba-4fa1-4877-ae0f-12c7982cc1de,statistics.shiksha,premium,1250,,high,low,10,name.com,,,
 2ed1f017-cb20-4cec-8565-361e07e137ea,aerobatics.shiksha,available,11.98,69.98,high,low,10,namecheap,,,17/09/2026 12:53
 8fed1e9f-bd27-4ae2-a7f6-b0d42b205149,spheric.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,08/08/2026 10:16
-cff9dad7-f5c6-4558-a278-8fa7e3d4e36c,astragalus.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,19/09/2026 09:45
+cff9dad7-f5c6-4558-a278-8fa7e3d4e36c,astragalus.shiksha,available,14.99,51.99,high,low,10,namesilo,,,19/09/2026 09:45
 baba64cd-8dd2-4f6b-bde4-16f141be6bab,cruddy.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,13/08/2026 08:44
 9324bbbb-6a94-45fa-9cfa-5fdcc6929ce8,notched.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,17/08/2026 12:35
+605eb7b1-fb05-44f6-bd2c-3fd3ceb62036,brahmins.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,30/09/2026 00:48
 7116939c-c952-4225-aced-69fb6a0d1f23,barany.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,22/09/2026 04:13
 7e4bca66-7e17-49b9-8518-18bda99e55b8,warm.shiksha,available,11.98,69.98,high,low,4,namecheap,,,21/09/2026 21:51
 3ce640fa-7aee-4a24-8e23-091d1f0a2e70,blanche.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,26/09/2026 03:36
@@ -401,9 +439,11 @@ e9140ec4-5e77-47ae-b5ed-603964eafab6,pesky.shiksha,available,11.98,69.98,medium,
 646c12a6-9007-4b48-902a-a90dcadcd2d5,hardheaded.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,21/08/2026 00:26
 958106ea-4d7b-4152-a84a-80f3931518ef,studied.shiksha,available,11.98,69.98,high,low,7,namecheap,,,10/09/2026 22:59
 1b6807b0-96d2-4b15-9817-55c799a6233b,polo.shiksha,available,,,high,high,4,,,,
+c54663fb-32d4-419a-b836-dbee25d88f31,vladivostok.shiksha,available,14.99,51.99,high,low,11,namesilo,,,29/09/2026 15:13
 92e3cdba-1f7c-42c3-9ded-c6740e72e097,amniota.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,18/09/2026 22:27
 11c0c3e6-e834-4365-aa55-a38f53935214,notifies.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,18/09/2026 08:35
-d862994c-0931-4da0-adc5-f92a48babc24,usda.shiksha,available,,,medium,low,4,,,,17/09/2026 19:25
+d3da1a3f-fa2f-42b7-b600-b08b1a01f3ef,trustees.shiksha,available,10.55,41.6,high,low,8,spaceship,,,29/09/2026 23:08
+d862994c-0931-4da0-adc5-f92a48babc24,usda.shiksha,available,,,high,low,4,,,,17/09/2026 19:25
 bf7e907d-fa4c-4540-9098-5c171cedb14c,tucson.shiksha,available,11.98,69.98,high,low,6,namecheap,,,29/09/2026 02:22
 c8e17f86-6b27-496b-b447-39612e77e5b2,attendee.shiksha,available,14.99,51.99,high,low,8,namesilo,,,21/09/2026 01:26
 750dc3c7-6ad0-4841-a668-7d788318d1d1,gaps.shiksha,available,14.99,51.99,medium,low,4,namesilo,,,20/09/2026 11:47
@@ -412,9 +452,8 @@ b4f7664c-87c1-4c8c-ab2d-dbeb40887d18,columnar.shiksha,available,11.98,69.98,medi
 4903eb62-fe38-4c35-81e0-6489039c49a0,cleaning.shiksha,available,11.98,69.98,high,low,8,namecheap,,,12/08/2026 10:25
 6fc22d80-7278-493d-952b-5911805cfdf0,assurgent.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,07/08/2026 08:26
 97c95c73-e572-4235-9a68-913c3fc99dc1,vow.shiksha,available,10.55,41.6,high,low,3,spaceship,,,28/09/2026 11:05
-63d496d5-ae02-4378-a5fc-c13898886e91,chain.shiksha,available,19.99,,high,low,5,name.com,,,
 037612c6-635c-4881-99e2-553043b4e817,bottomless.shiksha,available,11.98,69.98,high,low,10,namecheap,,,10/08/2026 21:21
-02022246-fd16-458e-a0fb-f0495aab2166,lissom.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,23/08/2026 23:41
+02022246-fd16-458e-a0fb-f0495aab2166,lissom.shiksha,available,11.98,69.98,high,low,6,namecheap,,,23/08/2026 23:41
 4cac1844-b753-4627-a00f-59533fd7d7e4,twentieth.shiksha,available,14.99,51.99,high,low,9,namesilo,,,21/09/2026 12:27
 5112df45-d0fa-48ee-871b-53bf88df49e3,post.shiksha,available,10.92,41.81,high,medium,4,dynadot,,,29/09/2026 02:12
 5424728b-b606-4bef-bf16-886983e9941c,dinah.shiksha,available,10.55,41.6,medium,low,5,spaceship,,,29/09/2026 03:55
@@ -422,19 +461,20 @@ b4f7664c-87c1-4c8c-ab2d-dbeb40887d18,columnar.shiksha,available,11.98,69.98,medi
 95d86eb4-300d-4990-ba3e-48ba219ec641,baked.shiksha,available,11.98,69.98,high,low,5,namecheap,,,
 0e7aec25-71db-4838-a286-bb63e6e2f2ee,unaged.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,12/09/2026 00:11
 853cb819-1946-4355-8e6b-88baca3e7f1a,austen.shiksha,available,14.99,51.99,high,low,6,namesilo,,,21/09/2026 04:37
-36179dc0-4ce8-42ad-9658-3b70d1e4d0f9,occupational.shiksha,available,10.55,41.6,medium,low,12,spaceship,,,29/09/2026 03:01
+36179dc0-4ce8-42ad-9658-3b70d1e4d0f9,occupational.shiksha,available,10.55,41.6,high,low,12,spaceship,,,29/09/2026 03:01
 5345dd45-5369-469b-9c20-139104d185e2,hallway.shiksha,available,13.5,,high,low,7,unstoppable,,,28/09/2026 05:56
 ff201469-0665-4c7f-840f-d5a137f384ae,daedal.shiksha,available,19.99,74.99,medium,low,6,name.com,,,13/08/2026 15:30
 a43d067d-308b-4098-8ab6-5377b3728c62,vargas.shiksha,available,14.99,51.99,high,low,6,namesilo,,,27/09/2026 04:13
-cce67afc-91cf-490b-b5dd-97672a5e2c70,fate.shiksha,available,19.99,,high,low,4,name.com,,,
+cce67afc-91cf-490b-b5dd-97672a5e2c70,fate.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 09:19
 0cb65bef-8756-4e31-87c2-d74901835e31,blade.shiksha,available,14.99,51.99,high,low,5,namesilo,,,24/09/2026 03:32
 85670db7-399e-4256-a72a-73497ffdc8f7,aloud.shiksha,available,14.99,51.99,high,low,5,namesilo,,,25/09/2026 14:25
 d4863b90-117c-4e8d-aa94-eb39f90e3a4f,screenshots.shiksha,available,11.98,69.98,medium,low,11,namecheap,,,20/09/2026 11:10
-33c563e7-12be-4c8c-af1e-643e0e7e80cd,applique.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,19/09/2026 21:57
+33c563e7-12be-4c8c-af1e-643e0e7e80cd,applique.shiksha,available,11.98,69.98,high,low,8,namecheap,,,19/09/2026 21:57
 6432ad69-0f43-4951-bd6a-b51cc8503a25,juliet.shiksha,available,13.5,,high,low,6,unstoppable,,,28/09/2026 03:46
 a0450345-ba7f-4e13-843f-e80076867845,tertiary.shiksha,available,11.98,69.98,high,low,8,namecheap,,,
 4c9d795b-7c8a-483b-b4ad-3b035796b28c,bakehouse.shiksha,available,11.98,69.98,high,low,9,namecheap,,,21/09/2026 20:13
-27d3f0aa-9870-4673-b9e6-6bd3d4cce26a,channel.shiksha,available,19.99,,high,low,7,name.com,,,
+27d3f0aa-9870-4673-b9e6-6bd3d4cce26a,channel.shiksha,available,14.99,51.99,high,low,7,namesilo,,,29/09/2026 08:01
+1bd4b020-6fd0-407b-82f4-c2598985ad7b,prosecuted.shiksha,available,14.99,51.99,low,low,10,namesilo,,,29/09/2026 17:43
 3903f4d5-91b1-4c3c-b6e0-3242ccc94cf1,snapchat.shiksha,available,19.99,,high,low,8,name.com,,,
 1e9437dd-960d-466d-b446-ad35c9f0c9e0,pure.shiksha,available,14.99,51.99,high,medium,4,namesilo,,,27/09/2026 08:17
 86714347-1fe2-4a28-b870-da1af76fa549,parthian.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,08/09/2026 01:59
@@ -447,8 +487,10 @@ eab68f6d-e863-4917-83b8-cfcef113ca98,denary.shiksha,available,11.98,69.98,medium
 aa4a8da7-74c7-4a9e-9fa9-bed0b6f98e25,crush.shiksha,available,11.98,69.98,high,low,5,namecheap,,,09/08/2026 05:21
 a8fbbc87-be27-4a40-b3e3-02d5aa2c52c9,groceries.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,28/09/2026 22:55
 7e3c7030-b79b-4b80-ab1a-bd63a1b6286c,ionised.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,22/08/2026 09:33
+a09cb8f3-66bf-4932-bea3-c648ce89be1a,slime.shiksha,available,10.81,41.71,high,low,5,porkbun,,,29/09/2026 12:55
 9e826e15-0dd5-4b8b-b45b-ce4743da765d,connect.shiksha,available,14.99,51.99,high,medium,7,namesilo,,,28/09/2026 07:46
 a7fa3df4-b1ef-49c8-8085-cc07a9d51672,apathy.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,19/09/2026 16:17
+fab60977-f1fe-4bd5-a60c-37ffe8070c3a,odyssey.shiksha,available,10.55,41.6,high,medium,7,spaceship,,,29/09/2026 19:51
 9c2bd7be-9abc-44b3-9a70-488dbaad98d4,reaches.shiksha,available,11.98,69.98,high,low,7,namecheap,,,18/09/2026 18:09
 7308ac57-3d70-4042-add8-f9039da581d2,manufacturer.shiksha,available,10.55,41.6,medium,low,12,spaceship,,,28/09/2026 20:59
 720a2d28-61ea-403b-9855-aef8abff42ce,cafe.shiksha,available,14.99,51.99,high,low,4,namesilo,,,19/09/2026 13:35
@@ -463,7 +505,7 @@ ac3f7a9f-8d4d-4b41-8325-b5506953aa03,usaid.shiksha,available,10.55,41.6,medium,l
 77b17a29-ee49-4946-86f6-825f07e8ed82,pork.shiksha,available,14.99,51.99,high,low,4,namesilo,,,26/09/2026 00:07
 e9d79254-9b4f-47fd-90d0-58a36fe9296d,picket.shiksha,available,11.98,69.98,high,low,6,namecheap,,,04/09/2026 23:25
 432f80b3-ac90-49ca-98c0-e1589b134325,aspherical.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,07/08/2026 04:57
-1f1d6172-bb48-4912-b9a6-8ec2c136a888,prentice.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,19/09/2026 22:19
+1f1d6172-bb48-4912-b9a6-8ec2c136a888,prentice.shiksha,available,14.99,51.99,high,low,8,namesilo,,,19/09/2026 22:19
 d56248ff-6c2a-4fef-becc-6594158d19da,hoot.shiksha,available,19.99,74.99,high,low,4,name.com,,,13/08/2026 16:12
 2ca85a94-cacc-4f11-bf04-62b5f4668f49,methods.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,28/09/2026 04:33
 4df7b8a2-4c83-4bae-8b75-2b860f2f7eff,stupefied.shiksha,available,19.99,74.99,medium,low,9,name.com,,,13/08/2026 18:55
@@ -474,13 +516,18 @@ ad0e7947-766d-47cc-99b8-f767b2b11075,straining.shiksha,available,11.98,69.98,med
 405e9cb5-3c46-41ad-ae69-6352fb9114cd,hangdog.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,20/08/2026 23:41
 7a60333f-229e-4868-b0a7-58314a121ad7,adios.shiksha,available,14.99,51.99,high,low,5,namesilo,,,28/09/2026 18:36
 bc182396-644b-4cc4-acb9-041db9ce990a,brandenburg.shiksha,available,10.92,41.81,high,low,11,dynadot,,,27/09/2026 16:50
+f8a38fbc-4d21-46f4-889b-698fe59298db,abandonment.shiksha,available,13.5,,medium,low,11,unstoppable,,,29/09/2026 22:48
 9c2af6e8-6292-45c5-a629-9fcc4b9028b2,motives.shiksha,available,13.5,,medium,low,7,unstoppable,,,28/09/2026 17:11
 d06674b8-3e8b-4fcc-aa4d-9f2509ad01e1,perishable.shiksha,available,11.98,69.98,high,low,10,namecheap,,,08/09/2026 17:18
+ad249b70-6119-4c4c-81df-50120c435a4a,dragonfly.shiksha,available,13.5,,high,low,9,unstoppable,,,30/09/2026 01:23
 d9b0802f-23c8-4460-9d56-a4c18f523f25,unedited.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,12/09/2026 08:51
 41c7854e-5405-408f-89d9-37940b00f1e4,vehement.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,11/09/2026 09:44
+a4b68efd-5d85-4c9c-89b8-56c10f26504a,parting.shiksha,available,10.92,41.81,high,low,7,dynadot,,,29/09/2026 13:17
 dbdac456-dfd8-460f-85f3-2e48aad5803e,merry.shiksha,available,11.98,69.98,high,low,5,namecheap,,,11/08/2026 04:28
 a25e4843-52b2-40d5-90e4-f8e240386847,switches.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,16/09/2026 23:57
 04801e73-1e7f-4840-b6dc-b850ff0c95bd,mutually.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,15/09/2026 15:56
+015a81e1-9040-4a84-a990-a6d675907c92,benz.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 14:58
+8d521c2c-202b-4e6a-9fc0-67f0476276e9,browns.shiksha,available,10.55,41.6,medium,low,6,spaceship,,,30/09/2026 00:26
 fb4693a8-8e50-45e7-ba14-1279ad119b94,ranted.shiksha,available,11.98,69.98,low,low,6,namecheap,,,20/09/2026 16:55
 4b5a1e0e-b1e2-4e04-84a6-2f40d6fb1817,skewed.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,10/09/2026 09:28
 28dfa286-bb17-465d-b089-b3bce5223101,naval.shiksha,available,11.98,69.98,high,low,5,namecheap,,,03/09/2026 14:07
@@ -513,26 +560,32 @@ ad972215-ef31-4622-a48d-277cdbdcd0ab,cummings.shiksha,available,14.99,51.99,medi
 b087ab11-2232-474b-8660-c32d32a3e116,beings.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,27/09/2026 02:57
 fa230c54-8022-435d-9f06-c1332839bbd0,bounty.shiksha,available,11.98,69.98,high,low,6,namecheap,,,24/09/2026 07:35
 49fb1e6e-db40-49db-99dc-d49250ea69f0,edit.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 02:42
-f1998ac1-b532-4406-922b-f3b7956e0ee5,humanely.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,15/09/2026 01:17
+f1998ac1-b532-4406-922b-f3b7956e0ee5,humanely.shiksha,available,11.98,69.98,high,low,8,namecheap,,,15/09/2026 01:17
 174600bd-3da4-4c29-af28-9a54e120b1fb,crinkly.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,13/08/2026 06:51
 324c8d30-0878-4a70-bfac-9e527545e9d1,theodore.shiksha,available,10.55,41.6,high,low,8,spaceship,,,29/09/2026 02:58
 188573cf-d0f5-4124-a41d-472ea70fe640,trine.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,
+d2a307ca-8701-499e-9ecd-d9e4eb8fb408,succession.shiksha,available,10.55,41.6,high,low,10,spaceship,,,29/09/2026 06:21
+11915c62-17d0-4ce8-9a8f-df4617e2d115,literacy.shiksha,premium,,,high,low,8,,,,30/09/2026 02:09
 ed35ee14-bd2b-4aeb-96e1-cdff7e9e45b7,tractive.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,11/09/2026 18:40
+7845c456-41e9-4ab6-9d3b-1e307508db85,circumstance.shiksha,available,10.55,41.6,high,low,12,spaceship,,,29/09/2026 08:31
 0d4d30e7-9e5e-4739-9f6b-3a238632576c,dumb.shiksha,available,11.98,69.98,high,low,4,namecheap,,,14/08/2026 21:03
 d31d7557-8947-43f7-8ddd-a9c0f2c7fc50,our.shiksha,available,19.99,,high,medium,3,name.com,,,
 a7c4e9b7-77de-44ef-8d1c-8f507b5b9fb6,orbicular.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,08/08/2026 10:11
 34035112-fc92-4b8c-9718-1125d93cfbfd,evaporate.shiksha,available,19.99,,high,low,9,name.com,,,
 a6911102-ee72-413c-84dd-b24caf05f18a,bucks.shiksha,available,11.98,69.98,high,low,5,namecheap,,,25/09/2026 13:26
-a3a6d008-aba2-40c9-b550-e826db69c536,watercress.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,13/08/2026 06:18
+a3a6d008-aba2-40c9-b550-e826db69c536,watercress.shiksha,available,11.98,69.98,high,low,10,namecheap,,,13/08/2026 06:18
 ebe299de-4395-4509-bd31-0d54b85d4a18,jealous.shiksha,available,14.99,51.99,high,low,7,namesilo,,,24/09/2026 01:04
 6b738817-962e-4313-a873-87bd41aa3d52,areas.shiksha,available,14.99,51.99,medium,low,5,namesilo,,,27/09/2026 10:01
-781ec6ac-982b-4a74-ad38-0c8a1a2aa959,gardener.shiksha,premium,500.5,,medium,low,8,unstoppable,,,28/09/2026 09:51
+781ec6ac-982b-4a74-ad38-0c8a1a2aa959,gardener.shiksha,premium,500.5,,high,low,8,unstoppable,,,28/09/2026 09:51
+c536e926-c76e-40bd-b19a-8e589acbc107,somaliland.shiksha,available,10.92,41.81,medium,low,10,dynadot,,,29/09/2026 09:30
 155acf47-dd71-459d-a80f-8b9913ac841f,concordant.shiksha,available,11.98,69.98,high,low,10,namecheap,,,12/08/2026 20:16
 97cdc0ae-ac31-4b31-ada7-d5f921818921,aide.shiksha,available,14.99,51.99,high,low,4,namesilo,,,22/09/2026 14:20
 bc259a89-185b-4557-a10c-d943cfb9bb15,affined.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,
 a2265e59-9677-4871-b7e8-b5b666bf1b9a,nsf.shiksha,available,10.55,41.6,high,low,3,spaceship,,,28/09/2026 10:31
+fd9ee4d6-2c07-430b-b383-35ef6e24a76b,wonderland.shiksha,available,14.99,51.99,high,low,10,namesilo,,,29/09/2026 14:10
 ef36ac27-ffa2-4987-ae57-2515fab1bcf3,newbury.shiksha,available,10.81,41.71,medium,low,7,porkbun,,,28/09/2026 03:59
 c68ff0a4-6fdd-4c39-afc9-208b676eeb0c,bets.shiksha,available,19.99,,high,low,4,name.com,,,
+fe7eca13-553c-45a1-ac37-cf136ddea510,troublesome.shiksha,available,10.55,41.6,medium,low,11,spaceship,,,29/09/2026 20:56
 8860a17c-bd14-4aa4-862c-5b99bf8e8cfb,teamwork.shiksha,available,19.99,,high,low,8,name.com,,,
 c30bd5f7-813c-4624-9725-415c3c715080,harrison.shiksha,available,14.99,51.99,high,low,8,namesilo,,,23/09/2026 08:20
 a034e0bc-d81d-4435-bab5-f66f3fdaeac7,luxuriant.shiksha,available,11.98,69.98,high,low,9,namecheap,,,15/08/2026 22:14
@@ -542,7 +595,7 @@ d65fd4fa-725d-4378-9dd9-515c361afb56,arcanum.shiksha,available,14.99,51.99,high,
 82a01e36-054a-4a4f-939c-0bf9092c5015,benzoin.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,20/09/2026 12:33
 7f31d8b9-823e-4add-b2f8-5a7409473188,forgetting.shiksha,available,19.99,,high,low,10,name.com,,,
 87ab9c33-8a5b-4997-974b-890d4a6101cd,taxation.shiksha,available,19.99,,high,low,8,name.com,,,
-263cc600-74ab-4143-884a-bc645f4b6bba,mill.shiksha,available,19.99,,high,low,4,name.com,,,
+263cc600-74ab-4143-884a-bc645f4b6bba,mill.shiksha,available,11.98,69.98,high,low,4,namecheap,,,29/09/2026 18:53
 d93e679e-ab7f-4644-bfcb-b8fb4f00e45f,plentiful.shiksha,available,14.99,51.99,high,low,9,namesilo,,,27/09/2026 04:16
 a2dd96d4-8680-415d-889b-c9a7c93b83d3,pictorials.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,20/09/2026 12:53
 cc3ca45f-61c6-4432-bf3d-ead41a7e00bf,unabridged.shiksha,available,11.98,69.98,high,low,10,namecheap,,,11/09/2026 23:28
@@ -556,13 +609,13 @@ c8a69c87-ea90-46dc-9874-861b09ccda42,robustly.shiksha,available,11.98,69.98,medi
 f3bd46a5-98e4-4495-a440-eb9c35fc815e,glanced.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,18/09/2026 01:59
 c655521b-5a34-49bc-b051-189e5c474698,swoosh.shiksha,available,11.98,69.98,high,low,6,namecheap,,,11/09/2026 05:52
 1bc5841f-3ed3-4a72-b980-07ea5d54ca34,activase.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,17/09/2026 05:09
-f2e6761e-bc17-4071-8fa8-3a9fba4eb3b9,sag.shiksha,available,19.99,,high,low,3,name.com,,,
+f2e6761e-bc17-4071-8fa8-3a9fba4eb3b9,sag.shiksha,available,14.99,51.99,high,low,3,namesilo,,,29/09/2026 16:55
 12779cb5-13ba-4333-833e-f3e0b048229c,seaborne.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,10/09/2026 00:34
 04c3523b-42f3-41c0-8096-4ee8b2f4207e,dreamy.shiksha,available,11.98,69.98,high,low,6,namecheap,,,14/08/2026 18:48
 7c4f4850-2938-48f5-a80c-c59e44ee88b4,yall.shiksha,available,19.99,,medium,low,4,name.com,,,
 d21156f0-f147-42d0-8a39-fbe63c2458c7,matted.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,24/08/2026 16:52
-3d1cf095-83c3-493d-8c79-61ef1ed7e2a1,viewer.shiksha,available,19.99,,high,low,6,name.com,,,
-a2ab0bcd-034a-4acc-bc9c-1fdd1a5bdbb3,outlet.shiksha,available,19.99,,high,low,6,name.com,,,
+3d1cf095-83c3-493d-8c79-61ef1ed7e2a1,viewer.shiksha,available,10.92,41.81,high,low,6,dynadot,,,30/09/2026 03:13
+a2ab0bcd-034a-4acc-bc9c-1fdd1a5bdbb3,outlet.shiksha,available,11.98,69.98,high,low,6,namecheap,,,29/09/2026 17:56
 7e975746-1e77-4817-96f7-8066d3d1ddb7,blackamoor.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,03/09/2026 15:12
 7a8c268f-c421-4228-a2ca-eb148dec97fd,ragi.shiksha,available,14.99,51.99,medium,low,4,namesilo,,,17/09/2026 15:16
 ccf9c744-1c85-44b3-b7d8-b585d0140ac1,terrified.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,27/09/2026 02:38
@@ -577,6 +630,7 @@ b90e795d-7156-44ac-ae5d-3b4c81f250dc,hangout.shiksha,available,19.99,,high,low,8
 da3cc7ce-bafb-412a-b496-d0f5cfa76034,patriotic.shiksha,available,14.99,51.99,high,low,9,namesilo,,,27/09/2026 03:06
 03f5cdee-1f74-4cfb-b389-2f176502a5db,anachronic.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,
 8bd6b80a-f5c4-4860-9da0-3b5f13b24e9a,beltway.shiksha,available,14.99,51.99,high,low,7,namesilo,,,23/09/2026 07:15
+0f737da3-0d13-4825-a528-b77801fc9478,squire.shiksha,available,14.99,51.99,high,low,6,namesilo,,,29/09/2026 08:07
 781d21b0-324f-4ae1-882c-e8d3a0fd47a7,unkindly.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,12/09/2026 14:15
 819eaf54-439b-4d5c-9662-6c56709abfdb,aquatic.shiksha,available,11.98,69.98,high,low,7,namecheap,,,06/08/2026 10:45
 b8994da6-99ba-4748-8fb7-83f62998f310,parky.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,08/09/2026 01:38
@@ -591,26 +645,29 @@ fff2a29e-6c36-4b36-a8b6-cb2617d853f6,justly.shiksha,available,11.98,69.98,high,l
 7236ef23-3c0a-4b3d-bd44-85d9e18cbb73,weighty.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,12/08/2026 15:37
 b29c8fd3-d0ea-4af1-b69f-983111f8c1c0,lasts.shiksha,available,10.55,41.6,low,low,5,spaceship,,,28/09/2026 09:03
 85f28297-7d13-4a00-b20c-2e1c497fc3ba,tubular.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,11/08/2026 17:14
-2e57083e-c466-4e46-ab25-dd8d71c05565,cultivator.shiksha,available,19.99,74.99,medium,low,10,name.com,,,17/09/2026 19:20
+2e57083e-c466-4e46-ab25-dd8d71c05565,cultivator.shiksha,available,19.99,74.99,high,low,10,name.com,,,17/09/2026 19:20
 286c4809-e587-44fc-9ca1-8a069fda2395,frustrated.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,24/09/2026 10:57
 192251c2-6e84-4db4-83f3-fe12863179da,archean.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,06/08/2026 15:05
 f08365cb-96a3-4761-93e1-d155e504bfcf,wit.shiksha,available,11.98,69.98,high,low,3,namecheap,,,24/09/2026 08:03
-1f095738-41b1-45ca-85af-9fde91d5cedd,dissolve.shiksha,available,19.99,,high,low,8,name.com,,,
+96882953-38fe-4652-a3f9-958ed4c58d63,humber.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 19:13
+1f095738-41b1-45ca-85af-9fde91d5cedd,dissolve.shiksha,available,11.98,69.98,high,low,8,namecheap,,,29/09/2026 16:16
 26277b99-471d-4359-a3f1-ef7536e30133,visually.shiksha,available,14.99,51.99,high,low,8,namesilo,,,16/09/2026 11:04
-222bd1c6-8b4a-490a-9836-24e9b08843e2,enumerate.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,03/09/2026 22:58
+222bd1c6-8b4a-490a-9836-24e9b08843e2,enumerate.shiksha,available,11.98,69.98,high,low,9,namecheap,,,03/09/2026 22:58
+0224c3b5-5e48-49dd-8197-c8bac1d16977,cranberry.shiksha,available,10.55,41.6,high,low,9,spaceship,,,30/09/2026 01:08
 233572dc-d39c-4e86-bbb2-a702b810d79a,arid.shiksha,available,11.98,69.98,medium,low,4,namecheap,,,06/08/2026 18:58
 daef9cf8-d1cd-4ed0-95c8-adab30c1b187,rotfl.shiksha,available,19.99,,medium,low,5,name.com,,,
-745ee7f6-a84e-44e6-b1dc-6b6a281ece0e,grasping.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,07/08/2026 22:04
+745ee7f6-a84e-44e6-b1dc-6b6a281ece0e,grasping.shiksha,available,11.98,69.98,high,low,8,namecheap,,,07/08/2026 22:04
 bc08ba1c-9bd3-4eaf-af40-d508324b96d0,tubeless.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,11/09/2026 20:58
 e2d27980-0939-4494-8b71-902cae924f1b,mandela.shiksha,available,10.92,41.81,high,low,7,dynadot,,,28/09/2026 14:49
-21ed8d38-3d3b-4b02-be5d-042ccc5cdc52,nest.shiksha,available,19.99,,high,medium,4,name.com,,,
+21ed8d38-3d3b-4b02-be5d-042ccc5cdc52,nest.shiksha,available,13.5,,high,medium,4,unstoppable,,,29/09/2026 13:00
 f6e188e2-1e21-4610-8100-dd396e5da1a6,sat.shiksha,available,19.99,,high,low,3,name.com,,,
-6fefeb3c-9918-41e9-b0d0-ed243ebc4165,kilogramme.shiksha,available,19.99,,medium,low,10,name.com,,,
+6fefeb3c-9918-41e9-b0d0-ed243ebc4165,kilogramme.shiksha,available,19.99,,high,low,10,name.com,,,
 5d56af41-b203-4dd8-b1da-a1f1d06989ba,subvert.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,13/08/2026 02:15
 0b0eada7-8fd5-4f98-ba2f-d47b9c967a75,narial.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,03/09/2026 13:14
 b378bd7f-4410-404e-a747-53b426c029a9,hexed.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,21/08/2026 07:51
-e4898157-7f18-4007-8388-7cae698ac832,employer.shiksha,available,19.99,,high,low,8,name.com,,,
+e4898157-7f18-4007-8388-7cae698ac832,employer.shiksha,available,13.5,,high,low,8,unstoppable,,,29/09/2026 18:08
 55820dba-d102-46cc-b809-c16c129dd370,immorality.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,17/08/2026 15:04
+816de05a-a16c-467c-8146-462f26be8f1a,wrestler.shiksha,available,10.92,41.81,high,low,8,dynadot,,,29/09/2026 19:04
 9552fa35-bf81-41a1-a86a-8f0a1fd0d900,worded.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,20/09/2026 15:04
 b3a5bcfe-8051-4001-a8aa-c445f5a10617,arbalist.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,20/09/2026 00:35
 9123c012-ca18-4fac-8c64-7a03cc044153,owned.shiksha,available,14.99,51.99,high,low,5,namesilo,,,26/09/2026 03:41
@@ -623,7 +680,7 @@ d492f758-9248-4f23-bd31-7f9e5b649eac,battle.shiksha,available,14.99,51.99,high,l
 40de6af8-5763-43db-856c-29e210f79519,sgt.shiksha,available,14.99,51.99,high,low,3,namesilo,,,27/09/2026 06:19
 0753a549-94cd-4c15-a216-9cd7a184f747,disharmony.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,24/09/2026 22:38
 0db1e79b-50b8-46a3-8c94-5a7b913d6c19,jackfruit.shiksha,available,11.98,69.98,high,low,9,namecheap,,,20/09/2026 11:58
-c1889ef9-fd31-469a-b15c-188896d5b28c,phrase.shiksha,available,19.99,,high,low,6,name.com,,,
+c1889ef9-fd31-469a-b15c-188896d5b28c,phrase.shiksha,available,13.5,,high,low,6,unstoppable,,,29/09/2026 23:31
 e1e6d582-2466-4260-bfe7-923f27744e24,horary.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,21/08/2026 13:58
 d10dca86-8e73-4e3f-809f-4947cc3b77fd,centric.shiksha,available,11.98,69.98,high,low,7,namecheap,,,12/08/2026 00:07
 27369ca0-a7dc-463e-a5b7-776ea4424e5a,decline.shiksha,available,13.5,,medium,low,7,unstoppable,,,28/09/2026 13:52
@@ -631,12 +688,14 @@ d10dca86-8e73-4e3f-809f-4947cc3b77fd,centric.shiksha,available,11.98,69.98,high,
 b848d2c3-eaa4-45f8-8e1f-e0bcc858e9e2,scattered.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 11:23
 8322c381-c368-4381-830f-f878ad4fca37,dispersion.shiksha,available,11.98,69.98,high,low,10,namecheap,,,24/09/2026 22:57
 293a2fdd-9504-4021-864d-bb526fbefe1b,andrews.shiksha,available,14.99,51.99,high,low,7,namesilo,,,19/09/2026 04:49
-7196fa38-48f5-44eb-8f61-3083a5bd13bd,baffle.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,09/09/2026 08:20
+7196fa38-48f5-44eb-8f61-3083a5bd13bd,baffle.shiksha,available,11.98,69.98,high,low,6,namecheap,,,09/09/2026 08:20
 f4daa7d1-6465-406c-9bce-8cddbbda057f,migratory.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,24/08/2026 22:49
 66baef5c-533c-4711-80c1-e3ccc1bf1316,eolotropic.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,
 bc34b4a9-2e90-488d-b70e-f00d575bd0f1,moneymakers.shiksha,available,11.98,69.98,medium,low,11,namecheap,,,20/09/2026 18:20
 252505d3-711a-4cce-b670-f517acdd99cb,playhouse.shiksha,available,10.55,41.6,high,low,9,spaceship,,,29/09/2026 02:35
-727c1c76-f613-4e34-95dc-4dd5d7902d11,barium.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,20/09/2026 23:19
+9c9f1a7d-3b5e-4f50-b546-d23f5c3413d7,lytton.shiksha,available,10.55,41.6,medium,low,6,spaceship,,,30/09/2026 00:54
+727c1c76-f613-4e34-95dc-4dd5d7902d11,barium.shiksha,available,14.99,51.99,high,low,6,namesilo,,,20/09/2026 23:19
+80e2e2ba-219a-40cb-b013-8bb1112b2ec5,stuffing.shiksha,available,14.99,51.99,high,low,8,namesilo,,,29/09/2026 14:01
 8b93dc71-5d40-49a1-9433-43d454e1497d,fissure.shiksha,available,11.98,69.98,high,low,7,namecheap,,,13/08/2026 04:18
 f3ce332d-f682-4ecc-b371-7865b91b982b,dried.shiksha,available,11.98,69.98,high,low,5,namecheap,,,14/08/2026 18:59
 bde02a45-3545-43cb-ab62-737f3007e495,lite.shiksha,available,11.98,69.98,high,low,4,namecheap,,,11/08/2026 15:09
@@ -648,9 +707,11 @@ aa19b68e-fdbb-418a-9d99-f3ce322ff4aa,tashkent.shiksha,available,14.99,51.99,high
 2aab1eb3-3c62-416c-8f6b-7b130454ce4b,wobbly.shiksha,available,10.55,41.6,high,low,6,spaceship,,,27/09/2026 14:59
 72c07774-e70c-41c6-b61e-074160a839e4,anemone.shiksha,available,14.99,51.99,high,low,7,namesilo,,,19/09/2026 05:19
 3de4d051-34f0-4274-a1a6-d3f1e37596a2,rational.shiksha,available,11.98,69.98,high,low,8,namecheap,,,22/08/2026 07:50
-74b50290-57f9-46f3-8296-e8bcb220c78b,gas.shiksha,available,11.98,69.98,high,low,3,namecheap,,,23/09/2026 01:57
+7069a339-6b04-49a4-b669-f3489590e7eb,wreckage.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,29/09/2026 08:20
+74b50290-57f9-46f3-8296-e8bcb220c78b,gas.shiksha,available,10.55,41.6,high,low,3,spaceship,,,30/09/2026 01:57
 969faf51-a400-48d2-9d4e-f4cc7e187a9b,verge.shiksha,available,10.55,41.6,high,low,5,spaceship,,,28/09/2026 18:30
 759bc85a-85d0-4a1b-81e0-31019eec8523,stamp.shiksha,available,14.99,51.99,high,low,5,namesilo,,,23/09/2026 01:04
+4cbf2422-45e7-46b8-b4fb-0a2bcbd390d6,ventilation.shiksha,available,10.55,41.6,high,low,11,spaceship,,,29/09/2026 04:52
 ae2876c8-1ba1-465c-b706-e652454b7a19,ibanking.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,20/09/2026 00:37
 3a52a169-a6ca-4c5e-8f49-ee622db09431,consistent.shiksha,available,11.98,69.98,high,low,10,namecheap,,,12/08/2026 16:01
 fb20fbb7-e19f-42a3-a639-ce3dcebe7c5e,wrestle.shiksha,available,10.55,41.6,high,low,7,spaceship,,,29/09/2026 01:07
@@ -660,17 +721,17 @@ d640c709-0629-44d7-92e1-f286203f417d,stupidly.shiksha,available,11.98,69.98,medi
 e0d879a2-b036-4846-a7e3-37809e638706,picnic.shiksha,available,14.99,51.99,high,low,6,namesilo,,,24/09/2026 14:34
 b94562de-9697-4793-9dce-807d54685b3a,lowbred.shiksha,available,27.59,51.99,medium,low,7,namesilo,,,10/08/2026 22:02
 4e35c75b-a8b2-418e-bc7b-c1cb5b711150,suppertime.shiksha,available,14.99,51.99,high,low,10,namesilo,,,24/09/2026 22:23
-cb25d2a8-3fcb-4eb8-9d1d-c68e53e630b6,torrid.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,06/08/2026 16:35
+cb25d2a8-3fcb-4eb8-9d1d-c68e53e630b6,torrid.shiksha,available,11.98,69.98,high,low,6,namecheap,,,06/08/2026 16:35
 74f7d9d1-d395-4597-88e5-804ce86ba94c,harcourt.shiksha,available,14.99,51.99,high,low,8,namesilo,,,27/09/2026 08:10
 fc1d4719-8261-4236-b5e3-292e9558caef,messianic.shiksha,available,11.98,69.98,high,low,9,namecheap,,,24/08/2026 21:22
 6d9af20a-9a24-47f4-a554-f5c8bb640ae2,cadmium.shiksha,available,11.98,69.98,high,low,7,namecheap,,,11/08/2026 22:59
-a47ea9cf-78f6-4f4f-95b2-f025de96aaf6,farm.shiksha,premium,750,,high,low,4,name.com,,,
+a47ea9cf-78f6-4f4f-95b2-f025de96aaf6,farm.shiksha,premium,621.2,621.2,high,low,4,spaceship,,,29/09/2026 18:58
 a31a72f8-8be2-4b9e-b8a2-56fc6f735245,learnt.shiksha,available,19.99,,high,low,6,name.com,,,
 bf92d182-e798-4ba2-a45b-262cd18f2cab,lindsey.shiksha,available,11.98,69.98,high,low,7,namecheap,,,25/09/2026 19:35
 8fc15cdf-e197-4f13-8d4e-9f970424f3df,hemal.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,20/08/2026 21:41
 6de21de0-eed4-4035-82ba-b4a67e1f5b42,wittingly.shiksha,available,11.98,69.98,high,low,9,namecheap,,,15/09/2026 10:32
-f28a822b-db15-45b9-ad24-30f83cb4900c,dull.shiksha,available,14.99,51.99,medium,low,4,namesilo,,,23/09/2026 00:25
-1bd24bba-7a51-4783-9ce9-4038830908bf,shaded.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,10/09/2026 05:23
+f28a822b-db15-45b9-ad24-30f83cb4900c,dull.shiksha,available,14.99,51.99,high,low,4,namesilo,,,23/09/2026 00:25
+1bd24bba-7a51-4783-9ce9-4038830908bf,shaded.shiksha,available,11.98,69.98,high,low,6,namecheap,,,10/09/2026 05:23
 6f7bd5f1-24f0-4c11-8e9d-7079ea0d6cc1,settings.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,17/09/2026 13:18
 50131d5c-841e-4a4b-aa72-a2c229197f38,shandong.shiksha,available,13.5,,medium,low,8,unstoppable,,,29/09/2026 03:52
 8f822574-3594-4afa-9c42-5fffa50a5d27,alalia.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,18/09/2026 01:40
@@ -678,15 +739,18 @@ f28a822b-db15-45b9-ad24-30f83cb4900c,dull.shiksha,available,14.99,51.99,medium,l
 69693e0d-9641-4030-aafe-5d2f0865d60d,spoil.shiksha,available,11.98,69.98,high,low,5,namecheap,,,09/09/2026 08:16
 02deb565-82cf-4f28-8308-78a829900e2f,botanical.shiksha,available,11.98,69.98,high,low,9,namecheap,,,10/08/2026 20:47
 b9ed9206-f646-4866-ae43-14e887f9c7b0,abatement.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,16/09/2026 14:09
-fdfc4912-443c-4c5b-8d36-40fe5af6aba6,boethius.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,19/09/2026 08:26
+56b3b5f6-72da-4581-89e9-41af212c7423,sponsors.shiksha,available,13.5,,medium,low,8,unstoppable,,,29/09/2026 11:40
+fdfc4912-443c-4c5b-8d36-40fe5af6aba6,boethius.shiksha,available,14.99,51.99,high,low,8,namesilo,,,19/09/2026 08:26
 371da0cc-ca87-4dc9-b4c7-b6c82a80437d,clothes.shiksha,available,14.99,51.99,high,low,7,namesilo,,,28/09/2026 21:50
 893badb3-65d9-48f2-9dbb-cb935e4057ab,unequalled.shiksha,available,11.98,69.98,high,low,10,namecheap,,,12/09/2026 09:11
-ffd2299e-2259-480c-9c10-e01c786847f7,glue.shiksha,available,19.99,,high,low,4,name.com,,,
-986c5464-2c55-4e69-ac3a-5e9e1072daf2,permissive.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,08/09/2026 17:48
+ffd2299e-2259-480c-9c10-e01c786847f7,glue.shiksha,available,13.5,,high,low,4,unstoppable,,,29/09/2026 20:54
+986c5464-2c55-4e69-ac3a-5e9e1072daf2,permissive.shiksha,available,11.98,69.98,high,low,10,namecheap,,,08/09/2026 17:48
 b5640f39-6c45-4a25-9eb3-b694663134ab,jiffy.shiksha,available,11.98,69.98,high,low,5,namecheap,,,22/08/2026 07:30
 c1c27e75-1a1e-45d2-86ac-ca0cb398a9d2,agapanthus.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,17/09/2026 16:11
 7f0581dc-a2d4-4816-8dd2-c61eba7635c0,divorcing.shiksha,available,14.99,51.99,low,low,9,namesilo,,,17/09/2026 22:37
-c758c759-961a-4a01-86ee-74d5ed5e9bbd,gamely.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,14/09/2026 21:02
+5a2ff514-2cb3-40aa-b541-a0f5fce8783b,releases.shiksha,available,10.92,41.81,medium,low,8,dynadot,,,29/09/2026 16:41
+5e99c302-c76a-4eeb-a016-5dd0f96ab786,hiroshi.shiksha,available,10.55,41.6,high,low,7,spaceship,,,29/09/2026 15:38
+c758c759-961a-4a01-86ee-74d5ed5e9bbd,gamely.shiksha,available,11.98,69.98,high,low,6,namecheap,,,14/09/2026 21:02
 1c4ea78c-9c8b-4c31-b7ec-4a477200b33e,airplanes.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,28/09/2026 22:55
 7bf46a1c-a656-4ebe-a7c1-3a73384afb50,threatened.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,11/09/2026 14:13
 063f9c9e-dd04-4300-9953-7810f18f5efe,bonkers.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,06/08/2026 20:40
@@ -695,15 +759,14 @@ c758c759-961a-4a01-86ee-74d5ed5e9bbd,gamely.shiksha,available,11.98,69.98,medium
 46833403-f732-4272-b0cd-f2caa178cbf4,accusive.shiksha,available,11.98,69.98,low,low,8,namecheap,,,
 4d533364-30fd-491a-a883-cdeae31e8b7d,chained.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,12/08/2026 01:23
 359e34b3-11cc-40b3-a553-8104e22a6b9f,ashlar.shiksha,available,14.99,51.99,high,low,6,namesilo,,,20/09/2026 13:55
-cd7f719b-5d8e-46bd-a9bd-d979cc89fbf2,give.shiksha,available,,,high,low,4,,,,
 93b914bd-bbb2-4c26-8285-6eb28f09ec01,exquisite.shiksha,available,11.98,69.98,high,low,9,namecheap,,,17/08/2026 18:54
 605033ff-cb54-42cf-83e0-c8fd5c54e1f5,maury.shiksha,available,10.55,41.6,medium,low,5,spaceship,,,29/09/2026 03:39
 135a2b3e-e236-462b-9366-965608f99cd3,deathless.shiksha,available,19.99,74.99,medium,low,9,name.com,,,13/08/2026 20:02
 ca4b7a0b-4b19-4ec7-9642-ebf52bb23388,spend.shiksha,available,19.99,,high,low,5,name.com,,,
 8d3692c9-4bbf-4aae-b5d5-eac70c7eaf16,bulbous.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,09/08/2026 13:39
-a23604d4-6d3b-4635-b8cf-48e38f8b4c1e,santa.shiksha,available,19.99,,high,low,5,name.com,,,
+a23604d4-6d3b-4635-b8cf-48e38f8b4c1e,santa.shiksha,available,10.55,41.6,high,low,5,spaceship,,,29/09/2026 19:01
 4e2138f3-fa89-48fd-943f-6eb66df3fa45,bituminous.shiksha,available,11.98,69.98,high,low,10,namecheap,,,10/08/2026 08:53
-daf11bf2-15f9-44d1-93d5-0ee2a721abbc,jerking.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,06/08/2026 21:58
+daf11bf2-15f9-44d1-93d5-0ee2a721abbc,jerking.shiksha,available,11.98,69.98,high,low,7,namecheap,,,06/08/2026 21:58
 4a53d9bf-67c3-46bd-a6a7-69899f67d8e0,bighorn.shiksha,available,14.99,51.99,high,low,7,namesilo,,,23/09/2026 15:10
 5a3a6871-ab31-4be4-9099-a0ec72335d41,columbine.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,19/09/2026 23:13
 977e3792-a45b-4585-b91d-4ac62c7accfc,arame.shiksha,available,14.99,51.99,medium,low,5,namesilo,,,19/09/2026 23:56
@@ -713,18 +776,20 @@ b0a27a45-cab5-49cc-afd9-9ca4cc15fe72,rust.shiksha,available,10.55,41.6,high,medi
 4489f0db-8784-4cb6-ada0-b62ed591fb36,sloane.shiksha,available,10.55,41.6,high,low,6,spaceship,,,28/09/2026 16:12
 7ada1746-d304-4543-891b-051712e8a878,mug.shiksha,available,14.99,51.99,high,low,3,namesilo,,,24/09/2026 14:58
 0cf44f16-68fa-4b61-b63b-cfd73fa315c8,core.shiksha,available,14.99,51.99,high,medium,4,namesilo,,,28/09/2026 15:06
-c1be2b9c-166e-4669-8a3d-4e44e840709c,matisse.shiksha,available,19.99,,high,low,7,name.com,,,
+c1be2b9c-166e-4669-8a3d-4e44e840709c,matisse.shiksha,available,10.81,41.71,high,low,7,porkbun,,,29/09/2026 22:40
 772949b2-b823-47a3-9a04-1d6273b82d6d,ppm.shiksha,available,14.99,51.99,high,low,3,namesilo,,,28/09/2026 08:29
 7051c53c-55c6-4e27-8562-eed5023a0558,furrowed.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,18/08/2026 18:55
 3b11a0db-7cca-4daa-aab9-4d09d3bc0c88,olivia.shiksha,available,10.55,41.6,high,low,6,spaceship,,,28/09/2026 07:43
+843c002d-c2a1-4875-9bb1-a909ff65e071,siblings.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,29/09/2026 10:27
 b2a45e1b-1621-44f2-8f54-12ff06f2abe9,documentation.shiksha,available,19.99,,high,low,13,name.com,,,
 3a3e08db-a5a9-488f-96c3-0367faf893e0,palermo.shiksha,available,14.99,51.99,high,low,7,namesilo,,,27/09/2026 15:11
 32cdfb06-a1d0-4869-99aa-eb526f1d4a85,atrocious.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,22/09/2026 11:11
-fafdab08-ea1b-4b46-bb01-e703c3b3e568,feather.shiksha,available,19.99,,high,low,7,name.com,,,
+fafdab08-ea1b-4b46-bb01-e703c3b3e568,feather.shiksha,available,13.5,,high,low,7,unstoppable,,,29/09/2026 19:02
 4e7c0a60-fbdc-4cb5-aead-1fb45208cbb1,astounding.shiksha,available,14.99,51.99,high,low,10,namesilo,,,22/09/2026 10:29
 7cc64917-6403-4842-ba15-c9393f5c4ac2,andantino.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,
 c4eda1ab-9d3a-49e8-97ab-3d7ed5b10666,exultant.shiksha,available,11.98,69.98,high,low,8,namecheap,,,17/08/2026 19:42
 414e426b-8934-4f8d-9ac7-de7703b912eb,anathemise.shiksha,available,19.99,74.99,low,low,10,name.com,,,13/08/2026 16:25
+99b47e02-4fb5-4eab-abbd-40be049564ce,eic.shiksha,available,11.98,69.98,high,low,3,namecheap,,,29/09/2026 21:33
 2e8f9591-f20d-4528-b02a-1877160f695a,amateurs.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,29/09/2026 00:10
 1da8f9a7-0768-4a92-9c55-3da2f3575fab,handle.shiksha,available,11.98,69.98,high,low,6,namecheap,,,08/09/2026 13:26
 30f1625c-52b3-40fc-9096-ba10e48e7a25,christi.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,25/09/2026 21:26
@@ -736,25 +801,28 @@ fac669aa-e904-48de-bf7c-b618b75f248e,teens.shiksha,available,19.99,,high,low,5,n
 0074756b-f619-4174-abb2-618f6fa5c9a8,segment.shiksha,available,11.98,69.98,high,low,7,namecheap,,,28/09/2026 20:24
 e95ccb5d-29b2-4836-a0ce-152b68364fe9,furnishing.shiksha,available,14.99,51.99,high,low,10,namesilo,,,28/09/2026 02:47
 c86f5cd1-0471-4867-9139-bcf9379a57ff,amor.shiksha,available,14.99,51.99,high,low,4,namesilo,,,18/09/2026 22:37
-e79fe143-ebfa-497c-906b-ae544f68023c,chase.shiksha,available,,,high,high,5,,,,
 3e40c82d-1642-4147-9bc3-63f600059731,bountiful.shiksha,available,11.98,69.98,high,low,9,namecheap,,,09/08/2026 20:52
 821b4114-2503-4ac8-804b-f270e99aaeb9,kodiak.shiksha,available,14.99,51.99,high,low,6,namesilo,,,18/09/2026 02:05
 67123696-c771-4025-96b5-6eeb0d16fca4,participation.shiksha,available,13.5,,high,low,13,unstoppable,,,28/09/2026 22:50
 3fc421f4-56ff-492a-8130-696ce0e70302,acinose.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,
 7bf5d224-e44c-47f6-85e7-a4fd0983ccb5,deeds.shiksha,available,10.81,41.71,high,low,5,porkbun,,,27/09/2026 12:56
-d6bd5a50-f84c-4907-9abb-aef4fc9a9983,assort.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,17/09/2026 14:23
+d6bd5a50-f84c-4907-9abb-aef4fc9a9983,assort.shiksha,available,14.99,51.99,high,low,6,namesilo,,,17/09/2026 14:23
 9f756dfb-b709-4f9d-b623-73b1658741b7,anodyne.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,
 7d4e9be5-34a3-4442-ae2b-5a8c2e7badb0,hahn.shiksha,available,14.99,51.99,high,low,4,namesilo,,,27/09/2026 04:20
+8225c3ac-2ca1-4130-824b-22aca38999ba,adjoining.shiksha,available,14.99,51.99,high,low,9,namesilo,,,30/09/2026 03:23
 9951667c-ad42-4978-8da7-70a1a3934c4b,pollen.shiksha,available,19.99,,high,low,6,name.com,,,
 8deaf2c2-3906-4058-9be7-513cfe811308,similitude.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,18/09/2026 07:51
 4d41cf15-e5d3-4ee1-82de-4edc07abde2e,bifocals.shiksha,available,14.99,51.99,high,low,8,namesilo,,,23/09/2026 13:53
 22e00dd4-9741-4538-b613-bd9c26afa3bf,relationship.shiksha,available,19.99,,high,low,12,name.com,,,
 b8ef096e-0e62-4ed5-b094-7acf5f04c175,jumentous.shiksha,available,11.98,69.98,low,low,9,namecheap,,,22/08/2026 14:21
+5f475a28-7382-4640-8041-b66837b691ef,oxide.shiksha,available,11.98,69.98,high,low,5,namecheap,,,30/09/2026 02:26
 ad6b0939-7266-4837-8e07-66714c73c55c,baguet.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,21/09/2026 18:30
 a4f6300b-82c5-4632-8d7a-2f739849fd7f,correct.shiksha,available,14.99,51.99,high,low,7,namesilo,,,23/09/2026 23:33
-389dd790-c98d-4f55-a901-d26567809ce0,want.shiksha,available,19.99,,high,low,4,name.com,,,
+389dd790-c98d-4f55-a901-d26567809ce0,want.shiksha,available,10.55,41.6,high,low,4,spaceship,,,29/09/2026 13:33
+90cd46dd-d4f8-49a8-a358-7ad9fa103ecc,architectural.shiksha,available,10.92,41.81,medium,low,13,dynadot,,,29/09/2026 08:50
 8b1820f9-acf1-470b-ab11-bc383b84ff16,oral.shiksha,available,11.98,69.98,high,low,4,namecheap,,,04/09/2026 17:14
 d48846f6-5bad-402d-80d7-2bc521feec4c,aigina.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,17/09/2026 12:15
+937d163b-1722-411a-b0b6-110e87e5eba6,salerno.shiksha,available,13.5,,medium,low,7,unstoppable,,,29/09/2026 08:00
 7c8ea37c-cd02-4ddc-af27-2b835cf63633,actionable.shiksha,available,14.99,51.99,high,low,10,namesilo,,,21/09/2026 16:28
 94d879fc-518b-4dad-b230-b8eddce28e4d,dotted.shiksha,available,19.99,74.99,medium,low,6,name.com,,,13/08/2026 18:28
 1be36471-fa3c-4e0c-8c80-7334b9ccc353,interface.shiksha,available,10.81,41.71,high,low,9,porkbun,,,28/09/2026 19:29
@@ -774,12 +842,14 @@ e2c0d226-d3c2-45c6-b17f-faf2bc8c996e,filiform.shiksha,available,11.98,69.98,medi
 caba00dd-6daf-48bc-a11c-bb6b938fdfe2,aptness.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,19/09/2026 22:03
 8cd22093-5f75-4a59-acbd-0c5be9a4d313,unscathed.shiksha,available,11.98,69.98,high,low,9,namecheap,,,12/09/2026 12:03
 a2e4cbde-476d-49d1-bc04-57e07fca4a95,rudiments.shiksha,available,11.98,69.98,high,low,9,namecheap,,,22/09/2026 10:41
+d404f6bb-4dd6-4514-bfdd-f9f0b2bb2cbc,installing.shiksha,available,14.99,51.99,high,low,10,namesilo,,,30/09/2026 02:00
 81c0bea1-461f-4c32-820e-4d3b05b547ec,oldline.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,04/09/2026 01:51
-0794af58-e745-4c29-b117-ca74c4b0f6fe,considering.shiksha,available,14.99,51.99,medium,low,11,namesilo,,,26/09/2026 03:06
+0794af58-e745-4c29-b117-ca74c4b0f6fe,considering.shiksha,available,14.99,51.99,high,low,11,namesilo,,,26/09/2026 03:06
 a3286aac-45b9-4ec4-a518-2f032fb2a031,olaf.shiksha,available,10.81,41.71,medium,low,4,porkbun,,,28/09/2026 07:48
 4b66e916-70fc-4ece-95f3-c2b9d39c6445,sluicing.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,10/09/2026 11:31
 6382ac58-8e55-4002-8bb4-718437e23945,provoking.shiksha,available,11.98,69.98,high,low,9,namecheap,,,
-c2688d59-bccb-4a42-ad36-ee0866b740c6,biotite.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,23/09/2026 19:13
+c2688d59-bccb-4a42-ad36-ee0866b740c6,biotite.shiksha,available,11.98,69.98,high,low,7,namecheap,,,23/09/2026 19:13
+4e8a13d6-61a5-4062-9f2f-5635e7869d14,trilogy.shiksha,available,11.98,69.98,high,low,7,namecheap,,,30/09/2026 03:04
 9efa111b-4437-44dc-be3a-bb50d6cbde0d,sleeve.shiksha,available,10.92,41.81,high,low,6,dynadot,,,27/09/2026 15:53
 caa03fb4-efd7-4429-a46f-e97c04c37209,newfound.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,08/09/2026 04:48
 d5a13205-912d-424d-ba10-f03dbd7532f7,busily.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,14/09/2026 01:53
@@ -792,7 +862,9 @@ da49184e-c849-44ac-ac13-7a58c7a6d295,nonhuman.shiksha,available,11.98,69.98,medi
 1b27963d-7aee-4c38-af12-2f84b63887dc,condone.shiksha,available,19.99,,high,low,7,name.com,,,
 1568513a-f124-40ed-857b-0fbb2680ca63,triploid.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,11/09/2026 20:10
 ffb4f5ec-779d-4f72-8b8f-ecfa9fc8ed50,belorussia.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,23/09/2026 04:27
+a2bf3855-3b52-468d-ab9f-9bb73a738a6e,prisons.shiksha,available,10.55,41.6,medium,low,7,spaceship,,,29/09/2026 11:25
 7948f9e2-63ae-44bb-84ba-aa9452cdc85c,vitaliser.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,19/09/2026 09:12
+96ee5a13-9ef6-4001-acfd-0de1dffbd23d,orkney.shiksha,available,10.55,41.6,medium,low,6,spaceship,,,29/09/2026 15:23
 9a372995-9c5b-43eb-8f09-d278342b42e6,erudite.shiksha,available,11.98,69.98,high,low,7,namecheap,,,17/08/2026 13:10
 c8041f19-c058-4b42-8a32-20a66f4983bb,baldric.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,21/09/2026 21:45
 4f8bc4b0-7245-43ae-b0c5-39436a37c688,acantha.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,16/09/2026 20:38
@@ -801,19 +873,21 @@ c6c599ad-eee2-4c98-aa2a-d5dedd535fbd,move.shiksha,available,14.99,51.99,high,med
 abff3165-0189-476d-b855-f8213000cfcf,crying.shiksha,available,14.99,51.99,high,low,6,namesilo,,,24/09/2026 02:20
 228a0f02-d13e-4b80-b8e2-4ce00f7edd2e,hyaline.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,21/08/2026 16:06
 2f0e50e7-8d89-4df2-a83c-7aa489f5beda,greenback.shiksha,available,14.99,51.99,high,low,9,namesilo,,,22/09/2026 02:17
+ca3c984b-5172-4933-814a-87c363e34e53,levi.shiksha,available,10.81,41.71,high,low,4,porkbun,,,29/09/2026 13:18
 1a65ae56-11ee-4b7e-9b77-47a24be431b6,diabetic.shiksha,available,11.98,69.98,high,low,8,namecheap,,,14/08/2026 05:36
 6611f61f-5afc-4524-98db-66f6077c86a9,belly.shiksha,available,14.99,51.99,high,low,5,namesilo,,,16/09/2026 14:48
 26d55bc2-eacb-41fd-8315-9b715c1d579f,bacillus.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,21/09/2026 11:42
 94b952ec-2732-4b37-bf67-870673b2eb74,believed.shiksha,available,14.99,51.99,high,low,8,namesilo,,,17/09/2026 00:11
-74b63313-10a5-4509-8249-07c21b6fe0ad,unceasing.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,
+74b63313-10a5-4509-8249-07c21b6fe0ad,unceasing.shiksha,available,11.98,69.98,high,low,9,namecheap,,,
 54b48177-c79a-4497-820c-b78fe548c1f4,fashionable.shiksha,available,10.55,41.6,high,low,11,spaceship,,,28/09/2026 15:41
 5fa875fd-66b8-45e4-9ff2-4f7923aebdd8,throbbing.shiksha,available,11.98,69.98,high,low,9,namecheap,,,11/09/2026 14:47
 16337dec-0723-43f4-8dd4-408527540610,quarterly.shiksha,available,11.98,69.98,high,low,9,namecheap,,,09/09/2026 07:37
+0ca365f4-8547-4496-903d-ea7714cc7dc3,irina.shiksha,available,14.99,51.99,high,low,5,namesilo,,,29/09/2026 15:31
 46f8d27e-4bef-48b9-b92f-b48f84f3a7dd,fluency.shiksha,available,14.99,51.99,high,low,7,namesilo,,,20/09/2026 11:19
 499b12f0-90a3-444b-bcbe-ec3b3fc57790,dimorphic.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 08:09
 e17593f3-4bd0-430e-84e6-a9bc2e2fc1e9,princess.shiksha,available,19.99,,high,low,8,name.com,,,
 f3c48175-6c6a-4d2d-bc6a-1a831698b2fd,confiding.shiksha,available,11.98,69.98,high,low,9,namecheap,,,12/08/2026 20:45
-1b7e31d8-a74a-4782-bf4d-84de7a6435b4,anatolian.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,19/09/2026 03:29
+1b7e31d8-a74a-4782-bf4d-84de7a6435b4,anatolian.shiksha,available,14.99,51.99,high,low,9,namesilo,,,19/09/2026 03:29
 400366e1-4a27-46af-8357-ba9ddc226406,pinked.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,20/09/2026 15:51
 07c14979-388e-481c-8527-671ecd01f6f4,cylinder.shiksha,available,10.55,41.6,high,low,8,spaceship,,,29/09/2026 00:34
 5561a8e6-5f4c-4712-91bb-7f805f9f2a4a,braun.shiksha,available,14.99,51.99,high,low,5,namesilo,,,25/09/2026 02:19
@@ -829,24 +903,28 @@ d9e26428-5a00-4ef2-ae54-b82b58d202c8,proclaiming.shiksha,available,19.99,,high,l
 2a29e25a-2c16-418f-907f-e255fa4f1eab,suspension.shiksha,available,14.99,51.99,high,low,10,namesilo,,,28/09/2026 16:59
 b2630cf5-42e3-4ac5-86bb-42c1d8ed90a0,africa.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,17/09/2026 15:15
 89160fda-8c51-439a-bd39-25c65224a60b,reliably.shiksha,available,11.98,69.98,high,low,8,namecheap,,,14/09/2026 11:46
-1a71f267-596e-4836-96b4-63ec9bb67eff,ink.shiksha,available,,,high,medium,3,,,,
 57dd1afc-1eef-4ea8-8ac5-79d056e8a851,spelling.shiksha,available,14.99,51.99,high,low,8,namesilo,,,28/09/2026 03:07
+bddde609-64d7-4b52-98a1-6c6eee2ad02c,tenants.shiksha,available,10.92,41.81,medium,low,7,dynadot,,,29/09/2026 05:33
+18cb7698-5cd0-4ffc-ac7c-85f09b2f797b,cytokines.shiksha,available,11.98,69.98,low,low,9,namecheap,,,29/09/2026 06:01
 758e553d-c805-458c-b53a-56b467e7652e,contractor.shiksha,premium,650,650,high,low,10,namecheap,,,24/09/2026 17:45
+759099df-d862-4aa0-9c9c-11e5da33fee0,frames.shiksha,available,13.5,,medium,low,6,unstoppable,,,29/09/2026 11:27
 a2008dee-d56a-4cb4-a17b-2ec54f0f9c53,grabby.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,07/08/2026 21:58
 3f97da7d-e952-4805-8424-b639d6c492a0,navel.shiksha,available,14.99,51.99,high,low,5,namesilo,,,23/09/2026 06:35
 34b6010d-8a39-4888-807a-bca9d5593ff4,androgen.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,19/09/2026 04:53
-fcb72127-d95a-449d-9847-81f6a6b855a5,chorus.shiksha,available,19.99,,high,low,6,name.com,,,
-9a7a9e6b-3dfb-4acb-82d5-cae517abfc14,drawing.shiksha,available,19.99,,high,low,7,name.com,,,
+fcb72127-d95a-449d-9847-81f6a6b855a5,chorus.shiksha,available,10.55,41.6,high,low,6,spaceship,,,29/09/2026 08:55
+9a7a9e6b-3dfb-4acb-82d5-cae517abfc14,drawing.shiksha,available,14.99,51.99,high,low,7,namesilo,,,29/09/2026 16:41
 e282d822-11da-444c-90c6-6415ef9946f4,tyke.shiksha,available,11.98,69.98,high,low,4,namecheap,,,25/08/2026 00:14
 b49d0691-dbf1-4560-b88b-1d7188385a98,chappell.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,28/09/2026 21:34
 24990eee-5908-4076-9074-20768209b599,chewing.shiksha,available,14.99,51.99,high,low,7,namesilo,,,24/09/2026 14:24
 7cc103f6-716d-47ec-87fb-5d8534abfb67,aimlessly.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,13/09/2026 18:28
 50e9ec9c-88f0-4f9a-b6c7-b7760965e9d0,sleep.shiksha,available,14.99,51.99,high,medium,5,namesilo,,,25/09/2026 05:45
 7fa31c4d-f582-43e4-aa66-679126ca6ace,available.shiksha,available,14.99,51.99,high,low,9,namesilo,,,22/09/2026 14:22
-f81cf524-2fd4-4dd4-b905-14afb67bb995,repel.shiksha,available,19.99,,high,low,5,name.com,,,
+f81cf524-2fd4-4dd4-b905-14afb67bb995,repel.shiksha,available,11.98,69.98,high,low,5,namecheap,,,29/09/2026 15:49
 333c1a60-1830-477e-b66b-340215d11a79,puerile.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,09/09/2026 05:30
 30ef8258-604a-486e-9b00-a0000fb7cf16,holey.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,21/08/2026 10:23
-c066aaf9-d314-481c-a8f6-6f2b74d56c78,sargent.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,27/09/2026 04:36
+9e7ff95e-66c0-4337-bc2f-1c0535bf62fc,dea.shiksha,available,13.5,,high,low,3,unstoppable,,,30/09/2026 01:16
+b96e5150-b23b-48d8-b7c5-a83a6435494c,ching.shiksha,available,10.81,41.71,medium,low,5,porkbun,,,29/09/2026 08:53
+c066aaf9-d314-481c-a8f6-6f2b74d56c78,sargent.shiksha,available,11.98,69.98,high,low,7,namecheap,,,27/09/2026 04:36
 018c11dc-5ee0-42c4-8c01-7321326ce301,organiser.shiksha,available,14.99,51.99,high,low,9,namesilo,,,20/09/2026 08:46
 da5bc19e-f250-44fe-b33d-0b7b0157773a,antifungal.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,
 5deba70d-6912-4330-811d-98914f76d3ea,anthill.shiksha,available,14.99,51.99,high,low,7,namesilo,,,19/09/2026 13:26
@@ -858,7 +936,7 @@ ee8c9ff5-223a-4b04-8656-103ea93f4af5,tripartite.shiksha,available,11.98,69.98,me
 6abfa574-e5ac-4c7c-a263-fe1b25deb435,leaving.shiksha,available,11.98,69.98,high,low,7,namecheap,,,24/09/2026 22:37
 f896751f-7e66-4851-aab7-47d0f1b32763,lord.shiksha,available,11.98,69.98,high,low,4,namecheap,,,22/09/2026 01:47
 3e98de34-09be-4dfd-967a-8dad466837a8,apartheid.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,19/09/2026 16:15
-4d974843-7c20-4697-a8fe-f63b5c2101a4,vex.shiksha,available,14.99,51.99,medium,low,3,namesilo,,,21/09/2026 17:27
+4d974843-7c20-4697-a8fe-f63b5c2101a4,vex.shiksha,available,14.99,51.99,high,low,3,namesilo,,,21/09/2026 17:27
 6e2afc47-0770-4a1c-97d8-d20953c4db9c,anal.shiksha,available,11.98,69.98,high,low,4,namecheap,,,
 22a52b6e-316b-4838-b8cd-bbb9d909a65e,suggesting.shiksha,available,11.98,69.98,high,low,10,namecheap,,,27/09/2026 17:56
 fbaade5a-9d1a-4595-b22f-d14c3d3ea41b,bumpy.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,11/08/2026 09:48
@@ -869,18 +947,20 @@ cb0ff25e-bad2-47ad-ad7f-86d1d32bcdd8,firefighter.shiksha,available,19.99,,high,l
 8bedc9c8-6370-4009-a385-879fc4d17fff,sugars.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,18/09/2026 08:14
 3676a1c1-bdf7-4ff6-ba0e-544bb9d9ee36,outbound.shiksha,available,11.98,69.98,high,low,8,namecheap,,,04/09/2026 18:57
 f50be2d5-94f5-4be2-a12c-49d90327fca1,barbecues.shiksha,available,14.99,51.99,medium,low,9,namesilo,,,21/09/2026 08:34
-508a1041-eeee-4892-8e5b-0700a9e25be8,contend.shiksha,available,19.99,,high,low,7,name.com,,,
+508a1041-eeee-4892-8e5b-0700a9e25be8,contend.shiksha,available,10.55,41.6,high,low,7,spaceship,,,29/09/2026 11:25
 64578421-f791-4ec5-8412-097876c3740c,refusing.shiksha,available,14.99,51.99,low,low,8,namesilo,,,17/09/2026 15:40
 1f8dfe36-8d8d-4664-87d1-844a7def7723,boat.shiksha,available,14.99,51.99,high,low,4,namesilo,,,29/09/2026 03:06
 f61fe27f-e74f-4a21-8a21-4ccf6bb16ac7,athanasius.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,20/09/2026 20:26
 20588648-30aa-495d-8446-f7c8e67c9464,configured.shiksha,available,11.98,69.98,high,low,10,namecheap,,,12/08/2026 20:47
-1d289b5a-2ba1-48d7-ac19-5e1dcfdb6481,nerves.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,27/09/2026 04:51
-e74b8370-da3d-4a5c-8b9d-253b6fd011ee,foldaway.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,18/08/2026 10:07
+1d289b5a-2ba1-48d7-ac19-5e1dcfdb6481,nerves.shiksha,available,14.99,51.99,high,low,6,namesilo,,,27/09/2026 04:51
+e74b8370-da3d-4a5c-8b9d-253b6fd011ee,foldaway.shiksha,available,11.98,69.98,high,low,8,namecheap,,,18/08/2026 10:07
+e6b4f123-9d08-4b66-bb7b-61ad8fc420bd,reconstruct.shiksha,available,11.98,69.98,high,low,11,namecheap,,,29/09/2026 21:11
 2d917e65-fd11-4338-9270-de0adf147498,hind.shiksha,available,11.98,69.98,medium,low,4,namecheap,,,21/08/2026 09:26
 5e241c35-f70a-44fd-b2b0-378575ad377d,synaptic.shiksha,available,11.98,69.98,high,low,8,namecheap,,,11/09/2026 06:09
 bd6c3bbb-7e1d-4ba3-ba03-cedcc0d10a67,dorsal.shiksha,available,11.98,69.98,high,low,6,namecheap,,,
-cf4d40d2-65c2-4d59-91cc-40f5699bf822,orgy.shiksha,available,14.99,51.99,medium,low,4,namesilo,,,23/09/2026 17:17
+cf4d40d2-65c2-4d59-91cc-40f5699bf822,orgy.shiksha,available,14.99,51.99,high,low,4,namesilo,,,23/09/2026 17:17
 8f31fa9c-b431-493c-8cd3-5ea24ea90b63,grateful.shiksha,available,11.98,69.98,high,low,8,namecheap,,,20/08/2026 18:22
+b97b8b1c-6577-48a6-81c2-71edcdb28b14,nile.shiksha,available,14.99,51.99,high,low,4,namesilo,,,29/09/2026 07:45
 35869847-9902-4f01-ad9a-7249ad9bcf36,wavering.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,13/09/2026 00:41
 7def9648-54a4-4241-adf0-58f57964eb09,stubby.shiksha,available,11.98,69.98,high,low,6,namecheap,,,10/09/2026 22:56
 45fd3003-c41c-4b5e-bc0e-41a172de47f7,sum.shiksha,available,10.55,41.6,high,low,3,spaceship,,,28/09/2026 22:55
@@ -890,14 +970,18 @@ cf4d40d2-65c2-4d59-91cc-40f5699bf822,orgy.shiksha,available,14.99,51.99,medium,l
 7435b1b5-58f6-41c4-abcb-897ec14e2add,speeds.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,20/09/2026 02:30
 21120f38-092c-4664-a9cd-2488aa7e141d,consul.shiksha,available,14.99,51.99,high,low,6,namesilo,,,24/09/2026 17:37
 fce4384b-42e4-4c6f-a5d8-ca5db47c96bf,served.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,25/09/2026 17:23
+b8a77137-1d30-4e1a-82de-6fcf25bb8541,peaks.shiksha,available,14.99,51.99,high,low,5,namesilo,,,29/09/2026 17:03
 462bae75-ed00-4906-95fa-b5ed75b6844d,sumerian.shiksha,available,11.98,69.98,high,low,8,namecheap,,,11/09/2026 01:33
 ee0b8294-0730-4009-9388-3d7ce3fb305f,malcontent.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,14/08/2026 09:23
-bbc6f73c-0379-4501-8e61-e35d58ba01d8,murder.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,26/09/2026 00:00
+9831625c-5205-40fd-a2c4-ce89f3ead9c1,statues.shiksha,available,10.55,41.6,high,low,7,spaceship,,,29/09/2026 10:39
+bbc6f73c-0379-4501-8e61-e35d58ba01d8,murder.shiksha,available,11.98,69.98,high,low,6,namecheap,,,26/09/2026 00:00
+320039fd-53e6-4390-827e-f4a531b71af1,decoy.shiksha,available,19.99,79.99,high,low,5,godaddy,,,30/09/2026 01:16
 b9f82e8f-89b7-4af2-9d25-914d6e08ce6b,rudy.shiksha,available,14.99,51.99,high,low,4,namesilo,,,27/09/2026 07:02
 3376f9a8-d013-4815-b6b0-bf5d8956aebc,automobiles.shiksha,premium,768,768,high,low,11,namesilo,,,17/09/2026 22:53
 100041a5-af90-471e-a41a-0f8fcde2e8b1,lewdly.shiksha,available,11.98,69.98,low,low,6,namecheap,,,15/09/2026 11:12
+fba877e6-f002-4208-bd6c-f3909d0df723,pollock.shiksha,available,14.99,51.99,high,low,7,namesilo,,,29/09/2026 13:11
 56d84ddc-6521-42a2-a1cd-2bdba9b7dd0e,clonal.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,12/08/2026 12:01
-70db770c-821b-48ff-85e4-1a971c1df0bc,maximising.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,24/08/2026 17:58
+70db770c-821b-48ff-85e4-1a971c1df0bc,maximising.shiksha,available,11.98,69.98,high,low,10,namecheap,,,24/08/2026 17:58
 e9d25e2d-f4b6-4a61-86ae-fbaf41189207,consumable.shiksha,available,11.98,69.98,high,low,10,namecheap,,,12/08/2026 23:04
 3d85452b-0339-44c1-aa6d-4da7a2364f8d,swishing.shiksha,available,14.99,51.99,high,low,8,namesilo,,,18/09/2026 03:16
 c229b0c2-df35-4ba5-89c9-347256ecb535,artiste.shiksha,available,14.99,51.99,high,low,7,namesilo,,,20/09/2026 11:55
@@ -907,95 +991,11 @@ a7760aef-1046-4bcd-a892-406cdb8305a1,legibility.shiksha,available,14.99,51.99,hi
 adf477da-0f6d-482a-9a08-96c0b1006c67,charlton.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,27/09/2026 19:17
 0d1fa235-e12d-41fc-b134-6aa5d6daea06,energizing.shiksha,available,11.98,69.98,high,low,10,namecheap,,,
 6a0fca9f-8629-4ffd-bdbe-9e45731bbdcd,veterinary.shiksha,premium,640,640,high,low,10,namesilo,,,13/09/2026 05:00
-c7435b50-0d76-402d-be08-059bb7118c02,diversity.shiksha,available,19.99,,high,low,9,name.com,,,
+370454a3-471a-4d45-8f21-6a806e6ef4de,caen.shiksha,available,14.99,51.99,high,low,4,namesilo,,,29/09/2026 09:32
+c7435b50-0d76-402d-be08-059bb7118c02,diversity.shiksha,available,10.55,41.6,high,low,9,spaceship,,,29/09/2026 16:23
 603511f9-b302-479e-a174-d5dc760c169d,carry.shiksha,available,10.55,41.6,high,low,5,spaceship,,,28/09/2026 00:56
 ad9e5d35-0891-49a8-a018-a13ff2a377d9,breakaway.shiksha,available,11.98,69.98,high,low,9,namecheap,,,11/08/2026 03:01
-43bc8e0f-46e5-4a99-932c-cce929e552d0,juice.shiksha,available,19.99,,high,low,5,name.com,,,
+43bc8e0f-46e5-4a99-932c-cce929e552d0,juice.shiksha,available,14.99,51.99,high,low,5,namesilo,,,30/09/2026 01:04
 1fd4c44a-8b5d-4a19-8f03-482dd4692cd6,innovator.shiksha,available,10.55,41.6,high,low,9,spaceship,,,28/09/2026 02:49
 a5d1342f-75e8-463b-89fe-8dff4858b1fe,depot.shiksha,available,11.98,69.98,high,low,5,namecheap,,,11/09/2026 11:49
 9d9e5bf0-3550-496c-bd8c-7eaab2f14cf3,organic.shiksha,available,11.98,69.98,high,low,7,namecheap,,,08/09/2026 11:55
-aca1a3d0-fb49-4e78-b099-32610fb04199,rook.shiksha,available,11.98,69.98,high,low,4,namecheap,,,14/09/2026 07:54
-d4fa0cac-7edf-45a0-b2b9-11fd42a32a02,kyle.shiksha,available,14.99,51.99,high,low,4,namesilo,,,25/09/2026 12:33
-9afe253c-ae8f-4786-9086-848e6287953b,fusion.shiksha,available,14.99,51.99,high,medium,6,namesilo,,,29/09/2026 01:03
-0ec0b1b7-d1c6-4643-8eff-8d3da62095d3,disbelief.shiksha,available,14.99,51.99,high,low,9,namesilo,,,24/09/2026 22:29
-b50d25f2-2817-4ee5-8307-f7d711c6512e,slouchy.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,19/09/2026 04:23
-7b02f2c3-a541-4116-8d5a-a1180d14fe6c,pitahaya.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,16/09/2026 20:46
-2103defa-355b-4c2a-92d8-b652cc77461a,reagan.shiksha,available,13.5,,medium,low,6,unstoppable,,,28/09/2026 15:06
-ac8c9b73-0d62-4da8-9705-e1d55897cf23,gil.shiksha,available,14.99,51.99,high,low,3,namesilo,,,25/09/2026 13:06
-19c52961-e7a1-40a3-bec4-e42effae3ab6,riders.shiksha,available,14.99,51.99,high,low,6,namesilo,,,20/09/2026 01:20
-213598a8-740c-4293-b28b-fe5ea849601c,stat.shiksha,available,19.99,,high,low,4,name.com,,,
-50d775ed-64a6-41c2-b768-0e01135abade,who.shiksha,available,,,high,high,3,,,,
-b4b79ea3-a32a-4c38-8a52-9ed962fc437d,heinrich.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,25/09/2026 21:51
-7d320052-0ba9-410b-b529-a948f2dd7a80,buttercup.shiksha,available,14.99,51.99,high,low,9,namesilo,,,24/09/2026 11:18
-37e8263c-b478-4886-959f-fc8e2fcba69f,arc.shiksha,available,,,high,medium,3,,,,
-2fec9bf7-f895-4728-a97f-782a6a86a1c2,midway.shiksha,available,11.98,69.98,high,low,6,namecheap,,,11/08/2026 23:58
-81699a67-c532-4609-b2c9-53fabb90d713,driver.shiksha,available,19.99,,high,low,6,name.com,,,
-60990b90-e36c-4fb1-9e07-31839695a969,westport.shiksha,available,10.92,41.81,medium,low,8,dynadot,,,28/09/2026 08:11
-857eeb15-8221-4108-920e-3ff663304a2b,raiment.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,19/09/2026 19:57
-62fc83ad-03dc-499b-9823-ad28e6596491,copeland.shiksha,available,11.98,69.98,high,low,8,namecheap,,,27/09/2026 07:52
-ffdcefaf-fdf3-4d84-9973-6ebb921a154b,inrush.shiksha,available,11.98,69.98,high,low,6,namecheap,,,22/08/2026 06:17
-49d5d519-4f28-4e15-9487-b56493624d19,daylong.shiksha,available,19.99,74.99,medium,low,7,name.com,,,13/08/2026 18:51
-5140da79-4674-4227-ae04-0711ec2a9133,backflow.shiksha,available,14.99,51.99,high,low,8,namesilo,,,21/09/2026 15:32
-4628e330-470e-4060-a7b5-34f0c9d14187,lucifer.shiksha,available,14.99,51.99,high,low,7,namesilo,,,23/09/2026 01:23
-c416f4f3-465a-4de1-9979-e10d0ff5a244,slivery.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,10/09/2026 11:13
-96e3bc43-c5a4-4415-b9ef-5340de127424,procedure.shiksha,available,14.99,51.99,high,low,9,namesilo,,,19/09/2026 02:44
-2b042ac2-5a98-4e14-91fe-4ee5d6e7d281,slideshow.shiksha,available,19.99,,high,low,10,name.com,,,
-9b0df521-1773-45a3-9dd5-fb082a8c731a,gabriel.shiksha,available,11.98,69.98,high,medium,7,namecheap,,,28/09/2026 05:49
-e924a3cf-72ef-44b7-9fa0-09be656db4b0,specialty.shiksha,available,11.98,69.98,high,low,9,namecheap,,,18/08/2026 12:30
-6c929986-d584-4738-9e52-e9920655290d,escort.shiksha,available,14.99,51.99,high,low,6,namesilo,,,24/09/2026 06:34
-4f67793b-b15c-4e18-96e6-dde2e3027827,storytellers.shiksha,available,11.98,69.98,high,low,12,namecheap,,,20/09/2026 12:55
-12a000f7-729e-4141-92fa-4dc6c4782511,shunning.shiksha,available,14.99,51.99,medium,low,8,namesilo,,,21/09/2026 09:50
-b6bf999a-8faf-4498-bca7-5f28cd044501,rhythmical.shiksha,available,11.98,69.98,high,low,10,namecheap,,,09/09/2026 17:05
-232dd602-33ed-4180-a48c-edadea63d86a,because.shiksha,available,19.99,,high,low,7,name.com,,,
-46c1bf82-2ed4-4f67-8f55-e3ec8fd25393,swindle.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,14/09/2026 07:52
-58b0ea3f-734b-49f1-843d-bc7802847ee9,disordered.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,14/08/2026 11:18
-af051960-f4c7-437a-a719-a5ea6d6f3a90,event.shiksha,available,14.99,51.99,high,medium,5,namesilo,,,25/09/2026 05:15
-e8ff66c6-6862-4081-976a-687777179de0,dumpy.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,14/08/2026 21:10
-65791d40-f935-4ca4-a1a6-5337f3c3c3bc,rodney.shiksha,available,10.55,41.6,high,low,6,spaceship,,,28/09/2026 03:52
-98b752de-fa0e-4b38-b27a-d8bfba1ff4da,passcode.shiksha,available,19.99,,high,low,8,name.com,,,
-6c3893e5-48c5-4190-a921-55252d61a3e5,unbearable.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,25/09/2026 10:28
-5f539efc-3fdd-4a58-9d8f-e37f9ff1f6f4,lavatory.shiksha,available,11.98,69.98,high,low,8,namecheap,,,09/09/2026 02:14
-215c384f-c65b-4a4b-8799-4a758d9fca47,stepaside.shiksha,available,14.99,51.99,medium,low,10,namesilo,,,16/09/2026 15:09
-a3a2849e-0d45-456b-ae7a-8d31687989df,oliver.shiksha,available,14.99,51.99,high,low,6,namesilo,,,25/09/2026 08:05
-e63ac431-b8fe-4481-8d65-4b04201f37e6,equitably.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/09/2026 15:54
-9069b0dd-cb4f-46fb-9ce0-7f02bcb74702,ambitious.shiksha,available,14.99,51.99,high,low,9,namesilo,,,22/09/2026 03:59
-aad2fc80-9e64-4032-90ec-caf42fed034b,saviour.shiksha,available,11.98,69.98,high,low,7,namecheap,,,24/09/2026 14:50
-80b8d654-d730-4ec3-8701-c3f8d4877d78,tks.shiksha,available,19.99,,high,low,3,name.com,,,
-c437d172-ae87-4757-ab28-fd23f4ee04ac,pleasing.shiksha,available,14.99,51.99,high,low,8,namesilo,,,27/09/2026 04:10
-e5df7f5e-6ff4-461b-8d29-68fa61870bbe,iridescent.shiksha,available,11.98,69.98,high,low,10,namecheap,,,12/08/2026 03:15
-968e2c4e-e954-401e-8c32-893e46b5e212,palatal.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,04/09/2026 23:18
-7d2c3f74-d2ac-41dc-8da0-149cf351fe55,madeline.shiksha,available,13.5,,high,low,8,unstoppable,,,29/09/2026 03:55
-875a7bfe-bd69-4dbf-8675-25cd849a5eeb,artesian.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,06/08/2026 22:39
-ea787e70-7dec-46c3-828c-256ef839624a,radiant.shiksha,available,11.98,69.98,high,low,7,namecheap,,,15/08/2026 16:24
-324378d7-fd3b-4746-ad30-0b1b1903c32f,bengal.shiksha,available,14.99,51.99,high,low,6,namesilo,,,23/09/2026 07:59
-1b6785c4-ef53-47c9-a008-daed5eb71694,confront.shiksha,available,10.55,41.6,medium,low,8,spaceship,,,28/09/2026 09:44
-f0ffc79c-a298-481e-a399-40819a81d1cd,seyhan.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,17/09/2026 06:19
-61ae647c-ab17-49d9-9d50-51eb919c7304,tardy.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,09/08/2026 12:42
-b6e1401c-8bfd-4507-bdd6-a9355cd065aa,theatre.shiksha,available,14.99,51.99,high,low,7,namesilo,,,24/09/2026 23:54
-1bf349c1-bf29-4115-828a-7face91b6663,bent.shiksha,available,11.98,69.98,medium,low,4,namecheap,,,09/08/2026 14:16
-1ad2ed92-3774-45c1-9c2e-9b9ec6db1876,draconian.shiksha,available,11.98,69.98,medium,low,9,namecheap,,,14/08/2026 18:10
-64655089-19d0-43c6-b55e-2835ce9e230f,bearwood.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,22/09/2026 20:58
-a941835c-af96-4700-9596-7d4d107121d7,wideband.shiksha,available,11.98,69.98,high,low,8,namecheap,,,13/09/2026 11:50
-75fcc92e-f9db-40b4-8b21-7908094cd11d,illusion.shiksha,available,11.98,69.98,high,low,8,namecheap,,,24/09/2026 16:35
-7d1c75f2-e686-4dd3-8d17-07295b52b56b,homely.shiksha,available,11.98,69.98,high,low,6,namecheap,,,21/08/2026 11:04
-266a2052-5445-4fdb-8528-c37a4f617374,absurdly.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,13/09/2026 16:46
-2be41621-30b5-40be-a1ff-2c9cf7ae743d,hydroxy.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,21/08/2026 16:25
-b3673cf5-0319-465b-a7fb-c986bd8c3173,thirdly.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,11/09/2026 13:39
-e657ee8f-1739-4870-9265-bd0227958d98,clean.shiksha,available,14.99,51.99,high,low,5,namesilo,,,28/09/2026 03:47
-64b38f0f-5242-40b4-9320-9c77082ca301,sins.shiksha,available,14.99,51.99,medium,low,4,namesilo,,,27/09/2026 10:40
-be332ae7-d1e2-4fcb-9588-dd3bd712c523,antler.shiksha,available,14.99,51.99,medium,low,6,namesilo,,,19/09/2026 15:20
-80b1249d-c50d-4f68-8334-72820399ac9c,disliked.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,14/08/2026 11:29
-bc34da1f-49bf-4b2a-834f-536ca8a23abe,berber.shiksha,available,14.99,51.99,high,low,6,namesilo,,,23/09/2026 09:07
-cc276e94-0b9b-443d-943d-3b3190cd2923,again.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,28/09/2026 11:49
-b3fdf6fe-79d2-445f-8941-76f948d35e2a,friendly.shiksha,available,14.99,51.99,high,low,8,namesilo,,,25/09/2026 05:51
-63343e58-12d1-4815-8ba8-dc7430beefec,motors.shiksha,available,11.98,69.98,medium,low,6,namecheap,,,21/09/2026 01:16
-caa2abee-8af2-4d09-a84b-59c83940c27a,laboured.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,22/08/2026 17:40
-367c6e3e-b783-4451-876a-3795cc14dc34,know.shiksha,available,19.99,,high,low,4,name.com,,,
-ad747b38-2472-4d15-8c6a-3fb485cc5b9e,propertied.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,09/09/2026 03:34
-bec5df27-89e5-400d-8f75-f6b0de60f26d,strategy.shiksha,available,14.99,51.99,high,medium,8,namesilo,,,29/09/2026 00:42
-cdb5f98b-bc4e-466a-9d0e-6ee39b99a60e,obsequious.shiksha,available,11.98,69.98,medium,low,10,namecheap,,,10/08/2026 19:44
-054374eb-e354-44a6-923d-881b997fb2b6,germs.shiksha,available,14.99,51.99,low,low,5,namesilo,,,20/09/2026 10:09
-bdf5bfc0-ac22-4b74-811d-47d2fb28d8ed,revenge.shiksha,available,14.99,51.99,high,low,7,namesilo,,,25/09/2026 10:18
-6133be94-ee50-4b7c-a332-73cd4967fe7f,faddy.shiksha,available,11.98,69.98,medium,low,5,namecheap,,,17/08/2026 20:35
-da4df513-f533-460b-b767-b89762e259e6,dentate.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,14/08/2026 01:57
-3ccd3241-416c-493c-9469-4f490b797589,barrack.shiksha,available,14.99,51.99,medium,low,7,namesilo,,,22/09/2026 07:48
